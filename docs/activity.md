@@ -406,3 +406,4 @@
 - [2026-04-09T16:40:35+05:30] fix: ensure accessible aria-labels on icon-only buttons
 - [2026-04-10T14:14:35+05:30] fix: prevent event bubbling on card click handler
 - [2026-04-10T20:12:04+05:30] docs: refine project architectural overview and roadmap
+- [2025-10-05T09:42:26+05:30] feat: enhance search filter with fuzzy match algorithm
