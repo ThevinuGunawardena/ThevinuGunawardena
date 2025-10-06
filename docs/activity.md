@@ -195,3 +195,4 @@
 - [2026-09-14T18:37:55+05:30] refactor: optimize css custom properties and color tokens
 - [2026-09-14T15:12:38+05:30] style: fine-tune modal popup box-shadow and blur
 - [2025-10-06T11:04:27+05:30] feat: add subtle glassmorphic backdrop filter styling
+- [2025-10-06T12:05:35+05:30] perf: reduce DOM reflows during continuous scroll events
