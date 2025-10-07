@@ -196,3 +196,4 @@
 - [2026-09-14T15:12:38+05:30] style: fine-tune modal popup box-shadow and blur
 - [2025-10-06T11:04:27+05:30] feat: add subtle glassmorphic backdrop filter styling
 - [2025-10-06T12:05:35+05:30] perf: reduce DOM reflows during continuous scroll events
+- [2025-10-07T17:50:51+05:30] feat: add breadcrumb navigation for nested routes
