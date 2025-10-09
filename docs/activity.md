@@ -409,3 +409,4 @@
 - [2025-10-05T09:42:26+05:30] feat: enhance search filter with fuzzy match algorithm
 - [2025-10-08T12:13:44+05:30] perf: defer loading of non-critical analytics tracking scripts
 - [2025-10-08T21:19:36+05:30] feat: add filter by tag pills for portfolio projects grid
+- [2025-10-09T10:48:43+05:30] fix: resolve touch event latency on mobile touchscreens
