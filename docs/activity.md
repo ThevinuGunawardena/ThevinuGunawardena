@@ -412,3 +412,4 @@
 - [2025-10-09T10:48:43+05:30] fix: resolve touch event latency on mobile touchscreens
 - [2025-10-09T13:13:54+05:30] fix: correct z-index hierarchy between modal overlay and navbar
 - [2025-10-09T15:56:55+05:30] docs: update project architecture diagram and tech stack in README
+- [2025-10-09T17:59:12+05:30] fix: resolve subtle flicker during theme mode transitions
