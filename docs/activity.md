@@ -410,3 +410,4 @@
 - [2025-10-08T12:13:44+05:30] perf: defer loading of non-critical analytics tracking scripts
 - [2025-10-08T21:19:36+05:30] feat: add filter by tag pills for portfolio projects grid
 - [2025-10-09T10:48:43+05:30] fix: resolve touch event latency on mobile touchscreens
+- [2025-10-09T13:13:54+05:30] fix: correct z-index hierarchy between modal overlay and navbar
