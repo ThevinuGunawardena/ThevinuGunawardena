@@ -414,3 +414,4 @@
 - [2025-10-09T15:56:55+05:30] docs: update project architecture diagram and tech stack in README
 - [2025-10-09T17:59:12+05:30] fix: resolve subtle flicker during theme mode transitions
 - [2025-10-09T22:13:16+05:30] feat: support offline service worker caching for static assets
+- [2025-10-10T14:18:14+05:30] perf: minimize DOM reflows during scroll interactions
