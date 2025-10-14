@@ -199,3 +199,4 @@
 - [2025-10-07T17:50:51+05:30] feat: add breadcrumb navigation for nested routes
 - [2025-10-09T15:14:56+05:30] refactor: decouple API request logic from UI presentation layer
 - [2025-10-12T10:14:32+05:30] feat: support dynamic og:image meta tags for social sharing
+- [2025-10-14T09:33:34+05:30] docs: add setup and development guidelines in README
