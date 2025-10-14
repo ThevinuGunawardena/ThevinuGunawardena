@@ -201,3 +201,4 @@
 - [2025-10-12T10:14:32+05:30] feat: support dynamic og:image meta tags for social sharing
 - [2025-10-14T09:33:34+05:30] docs: add setup and development guidelines in README
 - [2025-10-14T15:19:06+05:30] docs: update component usage specifications and props table
+- [2025-10-14T15:59:40+05:30] fix: prevent event bubbling on card click handler
