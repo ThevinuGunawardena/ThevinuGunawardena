@@ -419,3 +419,4 @@
 - [2025-10-13T11:57:42+05:30] chore: configure automated Prettier and ESLint linting rules
 - [2025-10-14T12:18:36+05:30] docs: document design tokens for color palette and spacing scale
 - [2025-10-14T20:02:02+05:30] feat: enhance search filter with fuzzy match algorithm
+- [2025-10-15T21:57:22+05:30] feat: support dynamic theme switching with prefers-color-scheme
