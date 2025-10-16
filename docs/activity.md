@@ -421,3 +421,4 @@
 - [2025-10-14T20:02:02+05:30] feat: enhance search filter with fuzzy match algorithm
 - [2025-10-15T21:57:22+05:30] feat: support dynamic theme switching with prefers-color-scheme
 - [2025-10-16T10:22:59+05:30] fix: prevent event bubbling on project card click handlers
+- [2025-10-16T13:16:11+05:30] refactor: consolidate responsive media query rules
