@@ -202,3 +202,4 @@
 - [2025-10-14T09:33:34+05:30] docs: add setup and development guidelines in README
 - [2025-10-14T15:19:06+05:30] docs: update component usage specifications and props table
 - [2025-10-14T15:59:40+05:30] fix: prevent event bubbling on card click handler
+- [2025-10-16T09:56:31+05:30] fix: resolve touch event latency on iOS touch devices
