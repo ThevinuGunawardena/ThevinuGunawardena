@@ -422,3 +422,4 @@
 - [2025-10-15T21:57:22+05:30] feat: support dynamic theme switching with prefers-color-scheme
 - [2025-10-16T10:22:59+05:30] fix: prevent event bubbling on project card click handlers
 - [2025-10-16T13:16:11+05:30] refactor: consolidate responsive media query rules
+- [2025-10-17T10:14:56+05:30] feat: add animated particle canvas background effect
