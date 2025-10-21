@@ -207,3 +207,4 @@
 - [2025-10-16T20:49:23+05:30] refactor: streamline layout grid template column definitions
 - [2025-10-17T18:21:58+05:30] perf: minimize bundle size by tree-shaking unused icons
 - [2025-10-21T10:57:34+05:30] feat: implement dark mode theme toggle and local storage sync
+- [2025-10-21T12:44:03+05:30] fix: correct viewport height calculation on mobile browsers
