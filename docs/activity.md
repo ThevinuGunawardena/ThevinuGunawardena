@@ -211,3 +211,4 @@
 - [2025-10-22T17:25:02+05:30] chore: bump dependencies and audit security vulnerabilities
 - [2025-10-22T20:25:00+05:30] perf: implement requestAnimationFrame for smooth animations
 - [2025-10-24T09:46:29+05:30] feat: integrate custom SVG icon set into navigation bar
+- [2025-10-24T15:20:38+05:30] refactor: consolidate media queries into standard breakpoints
