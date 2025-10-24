@@ -425,3 +425,4 @@
 - [2025-10-17T10:14:56+05:30] feat: add animated particle canvas background effect
 - [2025-10-20T11:53:50+05:30] fix: resolve iOS Safari 100vh dynamic toolbar height calculation
 - [2025-10-20T17:22:23+05:30] feat: add animated particle canvas background effect
+- [2025-10-24T09:55:47+05:30] fix: correct box-shadow blur rendering on Chromium browsers
