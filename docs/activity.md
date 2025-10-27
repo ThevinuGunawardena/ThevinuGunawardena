@@ -428,3 +428,4 @@
 - [2025-10-24T09:55:47+05:30] fix: correct box-shadow blur rendering on Chromium browsers
 - [2025-10-24T17:17:21+05:30] refactor: consolidate responsive media query rules
 - [2025-10-27T13:56:38+05:30] chore: bump devDependencies and audit npm package security
+- [2025-10-27T18:02:10+05:30] fix: ensure proper ARIA attributes on tablist and tabpanel elements
