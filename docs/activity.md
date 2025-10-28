@@ -430,3 +430,4 @@
 - [2025-10-27T13:56:38+05:30] chore: bump devDependencies and audit npm package security
 - [2025-10-27T18:02:10+05:30] fix: ensure proper ARIA attributes on tablist and tabpanel elements
 - [2025-10-28T12:17:52+05:30] feat: add responsive layout breakpoints for ultra-wide displays
+- [2025-10-28T20:48:55+05:30] feat: add interactive project card hover tilt physics effect
