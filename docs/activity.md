@@ -431,3 +431,4 @@
 - [2025-10-27T18:02:10+05:30] fix: ensure proper ARIA attributes on tablist and tabpanel elements
 - [2025-10-28T12:17:52+05:30] feat: add responsive layout breakpoints for ultra-wide displays
 - [2025-10-28T20:48:55+05:30] feat: add interactive project card hover tilt physics effect
+- [2025-10-29T20:11:24+05:30] feat: enhance search filter with fuzzy match algorithm
