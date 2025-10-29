@@ -215,3 +215,4 @@
 - [2025-10-24T18:39:28+05:30] refactor: simplify state transitions in navigation controller
 - [2025-10-24T19:32:13+05:30] feat: integrate custom SVG icon set into navigation bar
 - [2025-10-29T16:54:49+05:30] fix: resolve touch event latency on iOS touch devices
+- [2025-10-29T18:47:23+05:30] feat: add smooth scroll spy navigation for landing page
