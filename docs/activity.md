@@ -217,3 +217,4 @@
 - [2025-10-29T16:54:49+05:30] fix: resolve touch event latency on iOS touch devices
 - [2025-10-29T18:47:23+05:30] feat: add smooth scroll spy navigation for landing page
 - [2025-10-29T19:09:09+05:30] feat: implement toast notification queue for alert messages
+- [2025-10-31T12:51:39+05:30] fix: ensure accessible aria-labels on icon-only buttons
