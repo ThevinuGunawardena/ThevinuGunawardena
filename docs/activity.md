@@ -435,3 +435,4 @@
 - [2025-10-30T15:01:47+05:30] refactor: extract reusable modal backdrop component logic
 - [2025-11-02T12:33:24+05:30] fix: ensure smooth font antialiasing on high-DPI retina displays
 - [2025-11-03T17:01:42+05:30] docs: add contributor guidelines and development setup instructions
+- [2025-11-04T12:12:44+05:30] fix: correct box-shadow blur rendering on Chromium browsers
