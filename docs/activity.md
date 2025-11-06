@@ -224,3 +224,4 @@
 - [2025-11-04T14:10:52+05:30] refactor: decouple API request logic from UI presentation layer
 - [2025-11-05T16:17:51+05:30] refactor: clean up legacy styles and unused CSS keyframes
 - [2025-11-06T10:59:17+05:30] refactor: modularize javascript event listener bindings
+- [2025-11-06T19:16:09+05:30] docs: refine project architectural overview and roadmap
