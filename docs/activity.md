@@ -226,3 +226,4 @@
 - [2025-11-06T10:59:17+05:30] refactor: modularize javascript event listener bindings
 - [2025-11-06T19:16:09+05:30] docs: refine project architectural overview and roadmap
 - [2025-11-06T21:06:48+05:30] feat: implement animated gradient accent borders
+- [2025-11-07T11:10:09+05:30] feat: add smooth scroll spy navigation for landing page
