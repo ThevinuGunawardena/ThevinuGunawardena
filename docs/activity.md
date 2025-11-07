@@ -441,3 +441,4 @@
 - [2025-11-06T14:04:54+05:30] feat: add smooth page transitions using view transitions API
 - [2025-11-06T15:05:53+05:30] feat: implement clipboard copy helper with tooltip feedback
 - [2025-11-06T22:42:20+05:30] perf: throttle mousemove handlers for card 3D tilt effects
+- [2025-11-07T16:52:05+05:30] feat: implement lazy loading intersection observer for images
