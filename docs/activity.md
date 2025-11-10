@@ -442,3 +442,4 @@
 - [2025-11-06T15:05:53+05:30] feat: implement clipboard copy helper with tooltip feedback
 - [2025-11-06T22:42:20+05:30] perf: throttle mousemove handlers for card 3D tilt effects
 - [2025-11-07T16:52:05+05:30] feat: implement lazy loading intersection observer for images
+- [2025-11-10T19:33:11+05:30] fix: prevent event bubbling on project card click handlers
