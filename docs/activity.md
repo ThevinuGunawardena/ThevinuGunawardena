@@ -229,3 +229,4 @@
 - [2025-11-07T11:10:09+05:30] feat: add smooth scroll spy navigation for landing page
 - [2025-11-07T20:42:00+05:30] feat: implement debounced search input component
 - [2025-11-07T20:15:50+05:30] fix: address margin collapse on nested container elements
+- [2025-11-10T10:19:12+05:30] perf: cache expensive regex match evaluations
