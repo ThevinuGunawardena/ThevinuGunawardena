@@ -443,3 +443,4 @@
 - [2025-11-06T22:42:20+05:30] perf: throttle mousemove handlers for card 3D tilt effects
 - [2025-11-07T16:52:05+05:30] feat: implement lazy loading intersection observer for images
 - [2025-11-10T19:33:11+05:30] fix: prevent event bubbling on project card click handlers
+- [2025-11-11T19:33:35+05:30] perf: reduce bundle size by pruning unused SVG path assets
