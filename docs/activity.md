@@ -445,3 +445,4 @@
 - [2025-11-10T19:33:11+05:30] fix: prevent event bubbling on project card click handlers
 - [2025-11-11T19:33:35+05:30] perf: reduce bundle size by pruning unused SVG path assets
 - [2025-11-11T21:34:42+05:30] feat: add client-side caching for GitHub REST API responses
+- [2025-11-12T13:32:38+05:30] feat: implement clipboard copy helper with tooltip feedback
