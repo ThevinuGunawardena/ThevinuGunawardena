@@ -448,3 +448,4 @@
 - [2025-11-12T13:32:38+05:30] feat: implement clipboard copy helper with tooltip feedback
 - [2025-11-12T18:29:38+05:30] perf: minimize DOM reflows during scroll interactions
 - [2025-11-13T09:31:04+05:30] refactor: organize project directory structure and asset folders
+- [2025-11-14T16:03:02+05:30] docs: update project architecture diagram and tech stack in README
