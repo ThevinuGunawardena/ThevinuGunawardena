@@ -449,3 +449,4 @@
 - [2025-11-12T18:29:38+05:30] perf: minimize DOM reflows during scroll interactions
 - [2025-11-13T09:31:04+05:30] refactor: organize project directory structure and asset folders
 - [2025-11-14T16:03:02+05:30] docs: update project architecture diagram and tech stack in README
+- [2025-11-14T22:12:28+05:30] perf: reduce bundle size by pruning unused SVG path assets
