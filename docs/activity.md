@@ -233,3 +233,4 @@
 - [2025-11-11T10:32:27+05:30] perf: optimize image asset compression and lazy loading
 - [2025-11-11T20:33:36+05:30] fix: repair broken image fallback placeholder handler
 - [2025-11-14T10:12:51+05:30] feat: support dynamic og:image meta tags for social sharing
+- [2025-11-14T15:45:53+05:30] fix: resolve touch event latency on iOS touch devices
