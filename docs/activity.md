@@ -452,3 +452,4 @@
 - [2025-11-14T22:12:28+05:30] perf: reduce bundle size by pruning unused SVG path assets
 - [2025-11-15T21:24:59+05:30] chore: configure automated Prettier and ESLint linting rules
 - [2025-11-17T09:26:27+05:30] refactor: modularize CSS custom properties into shared tokens file
+- [2025-11-17T19:26:19+05:30] feat: enhance search filter with fuzzy match algorithm
