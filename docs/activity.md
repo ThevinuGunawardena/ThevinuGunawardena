@@ -238,3 +238,4 @@
 - [2025-11-17T17:58:03+05:30] docs: refine project architectural overview and roadmap
 - [2025-11-17T19:58:15+05:30] feat: implement toast notification queue for alert messages
 - [2025-11-18T13:18:20+05:30] style: fine-tune modal popup box-shadow and blur radius
+- [2025-11-18T14:18:58+05:30] feat: add smooth scroll spy navigation for landing page
