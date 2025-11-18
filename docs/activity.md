@@ -239,3 +239,4 @@
 - [2025-11-17T19:58:15+05:30] feat: implement toast notification queue for alert messages
 - [2025-11-18T13:18:20+05:30] style: fine-tune modal popup box-shadow and blur radius
 - [2025-11-18T14:18:58+05:30] feat: add smooth scroll spy navigation for landing page
+- [2025-11-18T17:16:26+05:30] fix: prevent event bubbling on card click handler
