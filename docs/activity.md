@@ -241,3 +241,4 @@
 - [2025-11-18T14:18:58+05:30] feat: add smooth scroll spy navigation for landing page
 - [2025-11-18T17:16:26+05:30] fix: prevent event bubbling on card click handler
 - [2025-11-19T14:05:41+05:30] refactor: clean up legacy styles and unused CSS keyframes
+- [2025-11-19T20:48:37+05:30] feat: support keyboard navigation shortcuts across dashboard
