@@ -455,3 +455,4 @@
 - [2025-11-17T19:26:19+05:30] feat: enhance search filter with fuzzy match algorithm
 - [2025-11-17T21:58:32+05:30] fix: ensure smooth font antialiasing on high-DPI retina displays
 - [2025-11-18T19:30:43+05:30] fix: correct z-index hierarchy between modal overlay and navbar
+- [2025-11-21T12:48:48+05:30] feat: add filter by tag pills for portfolio projects grid
