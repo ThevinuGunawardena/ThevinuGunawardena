@@ -457,3 +457,4 @@
 - [2025-11-18T19:30:43+05:30] fix: correct z-index hierarchy between modal overlay and navbar
 - [2025-11-21T12:48:48+05:30] feat: add filter by tag pills for portfolio projects grid
 - [2025-11-22T09:44:48+05:30] fix: prevent event bubbling on project card click handlers
+- [2025-11-24T16:06:02+05:30] perf: defer loading of non-critical analytics tracking scripts
