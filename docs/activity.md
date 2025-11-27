@@ -465,3 +465,4 @@
 - [2025-11-26T13:29:11+05:30] feat: implement lazy loading intersection observer for images
 - [2025-11-27T10:29:11+05:30] feat: add filter by tag pills for portfolio projects grid
 - [2025-11-27T17:43:30+05:30] fix: resolve subtle flicker during theme mode transitions
+- [2025-11-27T22:10:26+05:30] fix: resolve subtle flicker during theme mode transitions
