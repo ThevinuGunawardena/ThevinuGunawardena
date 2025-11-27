@@ -252,3 +252,4 @@
 - [2025-11-25T15:47:19+05:30] feat: implement animated gradient accent borders
 - [2025-11-25T17:50:33+05:30] refactor: extract reusable button variants into styling tokens
 - [2025-11-27T15:36:28+05:30] docs: update component usage specifications and props table
+- [2025-11-27T18:37:08+05:30] fix: correct viewport height calculation on mobile browsers
