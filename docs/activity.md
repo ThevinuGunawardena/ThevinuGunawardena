@@ -254,3 +254,4 @@
 - [2025-11-27T15:36:28+05:30] docs: update component usage specifications and props table
 - [2025-11-27T18:37:08+05:30] fix: correct viewport height calculation on mobile browsers
 - [2025-11-27T18:24:47+05:30] fix: repair broken image fallback placeholder handler
+- [2025-11-27T19:11:04+05:30] feat: add multi-language i18n translation key loader
