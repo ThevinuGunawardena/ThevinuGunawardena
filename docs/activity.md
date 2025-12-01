@@ -257,3 +257,4 @@
 - [2025-11-27T19:11:04+05:30] feat: add multi-language i18n translation key loader
 - [2025-12-01T11:41:36+05:30] feat: support keyboard navigation shortcuts across dashboard
 - [2025-12-01T13:45:33+05:30] feat: add multi-language i18n translation key loader
+- [2025-12-01T14:06:06+05:30] perf: optimize image asset compression and lazy loading
