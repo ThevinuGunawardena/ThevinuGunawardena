@@ -470,3 +470,4 @@
 - [2025-12-01T10:17:12+05:30] fix: ensure proper ARIA attributes on tablist and tabpanel elements
 - [2025-12-02T17:04:00+05:30] fix: resolve iOS Safari 100vh dynamic toolbar height calculation
 - [2025-12-03T18:39:08+05:30] feat: add interactive project card hover tilt physics effect
+- [2025-12-05T14:13:27+05:30] fix: correct box-shadow blur rendering on Chromium browsers
