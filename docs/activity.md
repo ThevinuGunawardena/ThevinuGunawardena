@@ -471,3 +471,4 @@
 - [2025-12-02T17:04:00+05:30] fix: resolve iOS Safari 100vh dynamic toolbar height calculation
 - [2025-12-03T18:39:08+05:30] feat: add interactive project card hover tilt physics effect
 - [2025-12-05T14:13:27+05:30] fix: correct box-shadow blur rendering on Chromium browsers
+- [2025-12-06T17:57:53+05:30] feat: enhance tab switching performance with memoized components
