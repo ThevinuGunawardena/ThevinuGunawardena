@@ -263,3 +263,4 @@
 - [2025-12-04T15:09:32+05:30] fix: repair broken image fallback placeholder handler
 - [2025-12-05T20:59:22+05:30] perf: cache expensive regex match evaluations
 - [2025-12-06T15:35:01+05:30] docs: update API integration documentation and sample responses
+- [2025-12-07T10:24:46+05:30] fix: repair broken image fallback placeholder handler
