@@ -269,3 +269,4 @@
 - [2025-12-08T09:14:44+05:30] feat: add modal dialog with focus trap and keyboard navigation
 - [2025-12-08T10:45:01+05:30] docs: document design system spacing and color tokens
 - [2025-12-08T18:03:58+05:30] perf: optimize image asset compression and lazy loading
+- [2025-12-08T21:02:37+05:30] refactor: consolidate media queries into standard breakpoints
