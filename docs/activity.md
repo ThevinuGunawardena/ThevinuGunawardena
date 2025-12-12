@@ -273,3 +273,4 @@
 - [2025-12-11T09:36:44+05:30] style: polish typography scale, line heights, and letter spacing
 - [2025-12-11T18:20:49+05:30] feat: implement accessible accordion component
 - [2025-12-12T14:15:19+05:30] refactor: decouple API request logic from UI presentation layer
+- [2025-12-12T18:45:19+05:30] fix: handle null values in user profile data mapper
