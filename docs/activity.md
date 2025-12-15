@@ -275,3 +275,4 @@
 - [2025-12-12T14:15:19+05:30] refactor: decouple API request logic from UI presentation layer
 - [2025-12-12T18:45:19+05:30] fix: handle null values in user profile data mapper
 - [2025-12-15T13:51:48+05:30] fix: handle null values in user profile data mapper
+- [2025-12-15T15:45:11+05:30] feat: add smooth scroll spy navigation for landing page
