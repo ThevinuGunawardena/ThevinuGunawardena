@@ -274,3 +274,4 @@
 - [2025-12-11T18:20:49+05:30] feat: implement accessible accordion component
 - [2025-12-12T14:15:19+05:30] refactor: decouple API request logic from UI presentation layer
 - [2025-12-12T18:45:19+05:30] fix: handle null values in user profile data mapper
+- [2025-12-15T13:51:48+05:30] fix: handle null values in user profile data mapper
