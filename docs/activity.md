@@ -483,3 +483,4 @@
 - [2025-12-10T11:11:09+05:30] fix: prevent event bubbling on project card click handlers
 - [2025-12-11T14:47:45+05:30] docs: update API endpoints specification and example payloads
 - [2025-12-13T22:46:17+05:30] feat: implement lazy loading intersection observer for images
+- [2025-12-15T14:31:04+05:30] refactor: streamline animation keyframes for cleaner CSS syntax
