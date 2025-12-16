@@ -278,3 +278,4 @@
 - [2025-12-15T15:45:11+05:30] feat: add smooth scroll spy navigation for landing page
 - [2025-12-15T18:34:39+05:30] style: polish typography scale, line heights, and letter spacing
 - [2025-12-16T10:27:27+05:30] fix: correct viewport height calculation on mobile browsers
+- [2025-12-16T15:14:28+05:30] docs: add setup and development guidelines in README
