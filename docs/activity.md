@@ -484,3 +484,4 @@
 - [2025-12-11T14:47:45+05:30] docs: update API endpoints specification and example payloads
 - [2025-12-13T22:46:17+05:30] feat: implement lazy loading intersection observer for images
 - [2025-12-15T14:31:04+05:30] refactor: streamline animation keyframes for cleaner CSS syntax
+- [2025-12-16T16:46:46+05:30] refactor: organize project directory structure and asset folders
