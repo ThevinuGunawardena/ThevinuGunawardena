@@ -277,3 +277,4 @@
 - [2025-12-15T13:51:48+05:30] fix: handle null values in user profile data mapper
 - [2025-12-15T15:45:11+05:30] feat: add smooth scroll spy navigation for landing page
 - [2025-12-15T18:34:39+05:30] style: polish typography scale, line heights, and letter spacing
+- [2025-12-16T10:27:27+05:30] fix: correct viewport height calculation on mobile browsers
