@@ -282,3 +282,4 @@
 - [2025-12-17T19:04:14+05:30] feat: enhance responsive grid layout for mobile breakpoints
 - [2025-12-18T20:45:33+05:30] feat: support dynamic og:image meta tags for social sharing
 - [2025-12-19T13:48:38+05:30] refactor: streamline layout grid template column definitions
+- [2025-12-19T15:21:16+05:30] fix: correct date parsing for timezone offset mismatch
