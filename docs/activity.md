@@ -285,3 +285,4 @@
 - [2025-12-19T15:21:16+05:30] fix: correct date parsing for timezone offset mismatch
 - [2025-12-21T11:04:00+05:30] refactor: clean up legacy styles and unused CSS keyframes
 - [2025-12-22T13:20:28+05:30] feat: implement dark mode theme toggle and local storage sync
+- [2025-12-22T19:40:18+05:30] refactor: extract date formatting utility into helper module
