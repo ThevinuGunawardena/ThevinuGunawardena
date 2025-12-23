@@ -286,3 +286,4 @@
 - [2025-12-21T11:04:00+05:30] refactor: clean up legacy styles and unused CSS keyframes
 - [2025-12-22T13:20:28+05:30] feat: implement dark mode theme toggle and local storage sync
 - [2025-12-22T19:40:18+05:30] refactor: extract date formatting utility into helper module
+- [2025-12-23T12:25:07+05:30] fix: address margin collapse on nested container elements
