@@ -493,3 +493,4 @@
 - [2025-12-22T16:11:53+05:30] perf: defer loading of non-critical analytics tracking scripts
 - [2025-12-23T18:04:23+05:30] fix: correct z-index hierarchy between modal overlay and navbar
 - [2025-12-28T22:01:38+05:30] perf: defer loading of non-critical analytics tracking scripts
+- [2025-12-29T12:24:07+05:30] refactor: extract reusable modal backdrop component logic
