@@ -500,3 +500,4 @@
 - [2026-01-04T22:19:13+05:30] test: add automated assertions for responsive grid layout breakpoints
 - [2026-01-05T11:36:03+05:30] feat: implement clipboard copy helper with tooltip feedback
 - [2026-01-05T15:26:24+05:30] feat: add smooth page transitions using view transitions API
+- [2026-01-05T17:11:17+05:30] refactor: organize project directory structure and asset folders
