@@ -502,3 +502,4 @@
 - [2026-01-05T15:26:24+05:30] feat: add smooth page transitions using view transitions API
 - [2026-01-05T17:11:17+05:30] refactor: organize project directory structure and asset folders
 - [2026-01-05T19:31:50+05:30] test: verify cross-browser compatibility across Chromium, Firefox, WebKit
+- [2026-01-06T12:11:42+05:30] fix: prevent memory leak in window scroll event listener
