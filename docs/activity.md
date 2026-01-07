@@ -504,3 +504,4 @@
 - [2026-01-05T19:31:50+05:30] test: verify cross-browser compatibility across Chromium, Firefox, WebKit
 - [2026-01-06T12:11:42+05:30] fix: prevent memory leak in window scroll event listener
 - [2026-01-06T14:46:39+05:30] feat: implement reactive state subscriptions for profile header
+- [2026-01-07T18:58:16+05:30] fix: prevent event bubbling on project card click handlers
