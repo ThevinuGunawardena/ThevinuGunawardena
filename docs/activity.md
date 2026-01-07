@@ -292,3 +292,4 @@
 - [2025-12-29T18:16:37+05:30] fix: handle edge case when search results array is empty
 - [2026-01-05T13:11:33+05:30] perf: defer non-critical javascript execution on page load
 - [2026-01-05T16:01:42+05:30] docs: refine project architectural overview and roadmap
+- [2026-01-07T14:43:29+05:30] fix: correct viewport height calculation on mobile browsers
