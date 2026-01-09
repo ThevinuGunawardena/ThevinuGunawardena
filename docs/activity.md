@@ -506,3 +506,4 @@
 - [2026-01-06T14:46:39+05:30] feat: implement reactive state subscriptions for profile header
 - [2026-01-07T18:58:16+05:30] fix: prevent event bubbling on project card click handlers
 - [2026-01-08T14:44:00+05:30] feat: add accessible screen reader announcements for live updates
+- [2026-01-09T21:55:03+05:30] docs: update project architecture diagram and tech stack in README
