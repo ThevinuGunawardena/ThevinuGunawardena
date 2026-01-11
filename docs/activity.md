@@ -508,3 +508,4 @@
 - [2026-01-08T14:44:00+05:30] feat: add accessible screen reader announcements for live updates
 - [2026-01-09T21:55:03+05:30] docs: update project architecture diagram and tech stack in README
 - [2026-01-10T20:58:14+05:30] fix: resolve touch event latency on mobile touchscreens
+- [2026-01-11T21:11:17+05:30] feat: add filter by tag pills for portfolio projects grid
