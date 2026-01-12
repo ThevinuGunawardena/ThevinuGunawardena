@@ -509,3 +509,4 @@
 - [2026-01-09T21:55:03+05:30] docs: update project architecture diagram and tech stack in README
 - [2026-01-10T20:58:14+05:30] fix: resolve touch event latency on mobile touchscreens
 - [2026-01-11T21:11:17+05:30] feat: add filter by tag pills for portfolio projects grid
+- [2026-01-12T10:07:30+05:30] feat: implement collapsible sidebar drawer for mobile navigation
