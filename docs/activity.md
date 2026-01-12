@@ -510,3 +510,4 @@
 - [2026-01-10T20:58:14+05:30] fix: resolve touch event latency on mobile touchscreens
 - [2026-01-11T21:11:17+05:30] feat: add filter by tag pills for portfolio projects grid
 - [2026-01-12T10:07:30+05:30] feat: implement collapsible sidebar drawer for mobile navigation
+- [2026-01-12T13:06:55+05:30] feat: add interactive project card hover tilt physics effect
