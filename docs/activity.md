@@ -511,3 +511,4 @@
 - [2026-01-11T21:11:17+05:30] feat: add filter by tag pills for portfolio projects grid
 - [2026-01-12T10:07:30+05:30] feat: implement collapsible sidebar drawer for mobile navigation
 - [2026-01-12T13:06:55+05:30] feat: add interactive project card hover tilt physics effect
+- [2026-01-12T17:07:44+05:30] perf: defer loading of non-critical analytics tracking scripts
