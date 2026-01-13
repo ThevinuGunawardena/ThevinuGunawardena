@@ -515,3 +515,4 @@
 - [2026-01-13T11:14:05+05:30] fix: correct z-index hierarchy between modal overlay and navbar
 - [2026-01-13T11:00:57+05:30] docs: update API endpoints specification and example payloads
 - [2026-01-13T19:56:59+05:30] perf: minimize DOM reflows during scroll interactions
+- [2026-01-13T22:10:35+05:30] docs: add contributor guidelines and development setup instructions
