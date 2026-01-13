@@ -514,3 +514,4 @@
 - [2026-01-12T17:07:44+05:30] perf: defer loading of non-critical analytics tracking scripts
 - [2026-01-13T11:14:05+05:30] fix: correct z-index hierarchy between modal overlay and navbar
 - [2026-01-13T11:00:57+05:30] docs: update API endpoints specification and example payloads
+- [2026-01-13T19:56:59+05:30] perf: minimize DOM reflows during scroll interactions
