@@ -298,3 +298,4 @@
 - [2026-01-09T21:52:59+05:30] refactor: modularize javascript event listener bindings
 - [2026-01-12T19:34:11+05:30] refactor: modularize javascript event listener bindings
 - [2026-01-12T20:54:46+05:30] feat: support keyboard navigation shortcuts across dashboard
+- [2026-01-14T13:36:10+05:30] style: fine-tune modal popup box-shadow and blur radius
