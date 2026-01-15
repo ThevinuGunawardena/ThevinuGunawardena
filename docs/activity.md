@@ -300,3 +300,4 @@
 - [2026-01-12T20:54:46+05:30] feat: support keyboard navigation shortcuts across dashboard
 - [2026-01-14T13:36:10+05:30] style: fine-tune modal popup box-shadow and blur radius
 - [2026-01-15T16:55:19+05:30] test: add unit tests for utility string formatting functions
+- [2026-01-15T17:25:34+05:30] fix: handle edge case when search results array is empty
