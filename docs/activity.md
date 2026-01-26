@@ -306,3 +306,4 @@
 - [2026-01-21T11:39:24+05:30] fix: handle null values in user profile data mapper
 - [2026-01-21T15:06:54+05:30] style: polish typography scale, line heights, and letter spacing
 - [2026-01-22T21:35:59+05:30] feat: implement skeleton loading placeholders for card grid
+- [2026-01-26T12:23:16+05:30] feat: add breadcrumb navigation for nested routes
