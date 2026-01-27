@@ -525,3 +525,4 @@
 - [2026-01-22T09:43:32+05:30] test: verify cross-browser compatibility across Chromium, Firefox, WebKit
 - [2026-01-27T11:07:10+05:30] feat: implement clipboard copy helper with tooltip feedback
 - [2026-01-27T11:28:28+05:30] fix: address margin collapsing inside flex column containers
+- [2026-01-27T16:56:43+05:30] fix: prevent event bubbling on project card click handlers
