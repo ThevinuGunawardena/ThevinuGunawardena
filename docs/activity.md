@@ -527,3 +527,4 @@
 - [2026-01-27T11:28:28+05:30] fix: address margin collapsing inside flex column containers
 - [2026-01-27T16:56:43+05:30] fix: prevent event bubbling on project card click handlers
 - [2026-01-27T18:53:36+05:30] feat: add responsive layout breakpoints for ultra-wide displays
+- [2026-01-28T18:38:35+05:30] docs: add contributor guidelines and development setup instructions
