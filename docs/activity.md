@@ -309,3 +309,4 @@
 - [2026-01-26T12:23:16+05:30] feat: add breadcrumb navigation for nested routes
 - [2026-01-27T16:58:14+05:30] test: add unit tests for utility string formatting functions
 - [2026-01-27T19:21:06+05:30] refactor: extract reusable button variants into styling tokens
+- [2026-01-28T13:04:40+05:30] feat: add smooth scroll spy navigation for landing page
