@@ -533,3 +533,4 @@
 - [2026-01-28T21:56:32+05:30] fix: resolve iOS Safari 100vh dynamic toolbar height calculation
 - [2026-01-29T10:54:37+05:30] fix: resolve touch event latency on mobile touchscreens
 - [2026-01-29T10:40:44+05:30] fix: resolve subtle flicker during theme mode transitions
+- [2026-01-29T15:38:24+05:30] docs: update API endpoints specification and example payloads
