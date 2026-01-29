@@ -531,3 +531,4 @@
 - [2026-01-28T19:17:01+05:30] refactor: decouple network request client from UI components
 - [2026-01-28T21:54:41+05:30] perf: throttle mousemove handlers for card 3D tilt effects
 - [2026-01-28T21:56:32+05:30] fix: resolve iOS Safari 100vh dynamic toolbar height calculation
+- [2026-01-29T10:54:37+05:30] fix: resolve touch event latency on mobile touchscreens
