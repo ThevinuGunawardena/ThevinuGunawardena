@@ -534,3 +534,4 @@
 - [2026-01-29T10:54:37+05:30] fix: resolve touch event latency on mobile touchscreens
 - [2026-01-29T10:40:44+05:30] fix: resolve subtle flicker during theme mode transitions
 - [2026-01-29T15:38:24+05:30] docs: update API endpoints specification and example payloads
+- [2026-01-30T13:14:01+05:30] docs: document design tokens for color palette and spacing scale
