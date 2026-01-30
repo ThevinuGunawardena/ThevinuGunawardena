@@ -536,3 +536,4 @@
 - [2026-01-29T15:38:24+05:30] docs: update API endpoints specification and example payloads
 - [2026-01-30T13:14:01+05:30] docs: document design tokens for color palette and spacing scale
 - [2026-01-30T16:58:14+05:30] feat: add filter by tag pills for portfolio projects grid
+- [2026-01-30T18:21:15+05:30] docs: document design tokens for color palette and spacing scale
