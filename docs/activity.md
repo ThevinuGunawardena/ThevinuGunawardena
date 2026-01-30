@@ -535,3 +535,4 @@
 - [2026-01-29T10:40:44+05:30] fix: resolve subtle flicker during theme mode transitions
 - [2026-01-29T15:38:24+05:30] docs: update API endpoints specification and example payloads
 - [2026-01-30T13:14:01+05:30] docs: document design tokens for color palette and spacing scale
+- [2026-01-30T16:58:14+05:30] feat: add filter by tag pills for portfolio projects grid
