@@ -311,3 +311,4 @@
 - [2026-01-27T19:21:06+05:30] refactor: extract reusable button variants into styling tokens
 - [2026-01-28T13:04:40+05:30] feat: add smooth scroll spy navigation for landing page
 - [2026-01-30T10:13:44+05:30] perf: minimize bundle size by tree-shaking unused icons
+- [2026-01-30T17:57:14+05:30] feat: add subtle glassmorphic backdrop filter styling
