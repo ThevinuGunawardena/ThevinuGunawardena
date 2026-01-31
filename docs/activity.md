@@ -537,3 +537,4 @@
 - [2026-01-30T13:14:01+05:30] docs: document design tokens for color palette and spacing scale
 - [2026-01-30T16:58:14+05:30] feat: add filter by tag pills for portfolio projects grid
 - [2026-01-30T18:21:15+05:30] docs: document design tokens for color palette and spacing scale
+- [2026-01-31T12:14:13+05:30] refactor: organize project directory structure and asset folders
