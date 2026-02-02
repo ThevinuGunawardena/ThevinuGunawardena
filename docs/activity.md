@@ -314,3 +314,4 @@
 - [2026-01-30T17:57:14+05:30] feat: add subtle glassmorphic backdrop filter styling
 - [2026-02-01T17:50:27+05:30] refactor: streamline layout grid template column definitions
 - [2026-02-02T15:53:55+05:30] feat: implement toast notification queue for alert messages
+- [2026-02-02T19:55:54+05:30] feat: add smooth scroll spy navigation for landing page
