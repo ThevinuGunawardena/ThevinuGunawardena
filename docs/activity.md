@@ -321,3 +321,4 @@
 - [2026-02-04T16:03:12+05:30] feat: add modal dialog with focus trap and keyboard navigation
 - [2026-02-04T17:33:20+05:30] test: verify cross-browser compatibility on Chromium and Safari
 - [2026-02-04T18:32:08+05:30] fix: handle null values in user profile data mapper
+- [2026-02-05T17:34:50+05:30] feat: support keyboard navigation shortcuts across dashboard
