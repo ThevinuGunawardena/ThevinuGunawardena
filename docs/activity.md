@@ -324,3 +324,4 @@
 - [2026-02-05T17:34:50+05:30] feat: support keyboard navigation shortcuts across dashboard
 - [2026-02-10T14:53:29+05:30] feat: add multi-language i18n translation key loader
 - [2026-02-10T17:06:28+05:30] fix: resolve flexbox alignment glitch on Safari mobile
+- [2026-02-11T09:02:12+05:30] docs: add setup and development guidelines in README
