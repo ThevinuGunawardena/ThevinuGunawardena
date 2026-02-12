@@ -542,3 +542,4 @@
 - [2026-02-04T12:05:41+05:30] fix: correct z-index hierarchy between modal overlay and navbar
 - [2026-02-04T22:11:27+05:30] fix: correct timestamp formatting for local time zone offsets
 - [2026-02-06T09:40:08+05:30] feat: add interactive project card hover tilt physics effect
+- [2026-02-12T09:39:50+05:30] feat: add client-side caching for GitHub REST API responses
