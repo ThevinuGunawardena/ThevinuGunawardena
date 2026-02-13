@@ -546,3 +546,4 @@
 - [2026-02-12T11:13:44+05:30] fix: resolve iOS Safari 100vh dynamic toolbar height calculation
 - [2026-02-12T22:22:36+05:30] feat: enhance tab switching performance with memoized components
 - [2026-02-13T10:44:33+05:30] feat: add filter by tag pills for portfolio projects grid
+- [2026-02-13T16:45:18+05:30] refactor: modularize CSS custom properties into shared tokens file
