@@ -547,3 +547,4 @@
 - [2026-02-12T22:22:36+05:30] feat: enhance tab switching performance with memoized components
 - [2026-02-13T10:44:33+05:30] feat: add filter by tag pills for portfolio projects grid
 - [2026-02-13T16:45:18+05:30] refactor: modularize CSS custom properties into shared tokens file
+- [2026-02-13T20:05:03+05:30] chore: bump devDependencies and audit npm package security
