@@ -549,3 +549,4 @@
 - [2026-02-13T16:45:18+05:30] refactor: modularize CSS custom properties into shared tokens file
 - [2026-02-13T20:05:03+05:30] chore: bump devDependencies and audit npm package security
 - [2026-02-13T22:33:49+05:30] refactor: decouple network request client from UI components
+- [2026-02-14T20:38:27+05:30] fix: prevent event bubbling on project card click handlers
