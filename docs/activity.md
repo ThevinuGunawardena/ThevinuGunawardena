@@ -552,3 +552,4 @@
 - [2026-02-14T20:38:27+05:30] fix: prevent event bubbling on project card click handlers
 - [2026-02-15T10:53:46+05:30] feat: add accessible screen reader announcements for live updates
 - [2026-02-16T20:48:52+05:30] feat: implement lazy loading intersection observer for images
+- [2026-02-16T22:11:07+05:30] fix: ensure proper ARIA attributes on tablist and tabpanel elements
