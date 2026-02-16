@@ -329,3 +329,4 @@
 - [2026-02-12T13:05:56+05:30] perf: cache expensive regex match evaluations
 - [2026-02-13T11:14:09+05:30] docs: refine project architectural overview and roadmap
 - [2026-02-16T10:33:08+05:30] fix: resolve touch event latency on iOS touch devices
+- [2026-02-16T11:46:40+05:30] feat: support keyboard navigation shortcuts across dashboard
