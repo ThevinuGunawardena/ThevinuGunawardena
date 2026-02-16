@@ -328,3 +328,4 @@
 - [2026-02-11T10:45:17+05:30] docs: document design system spacing and color tokens
 - [2026-02-12T13:05:56+05:30] perf: cache expensive regex match evaluations
 - [2026-02-13T11:14:09+05:30] docs: refine project architectural overview and roadmap
+- [2026-02-16T10:33:08+05:30] fix: resolve touch event latency on iOS touch devices
