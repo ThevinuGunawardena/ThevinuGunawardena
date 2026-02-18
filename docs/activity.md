@@ -331,3 +331,4 @@
 - [2026-02-16T10:33:08+05:30] fix: resolve touch event latency on iOS touch devices
 - [2026-02-16T11:46:40+05:30] feat: support keyboard navigation shortcuts across dashboard
 - [2026-02-18T10:10:40+05:30] feat: support keyboard navigation shortcuts across dashboard
+- [2026-02-18T21:33:26+05:30] feat: add multi-language i18n translation key loader
