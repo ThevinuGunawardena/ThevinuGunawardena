@@ -555,3 +555,4 @@
 - [2026-02-16T22:11:07+05:30] fix: ensure proper ARIA attributes on tablist and tabpanel elements
 - [2026-02-17T13:48:23+05:30] refactor: streamline animation keyframes for cleaner CSS syntax
 - [2026-02-17T19:06:43+05:30] fix: prevent memory leak in window scroll event listener
+- [2026-02-18T14:17:09+05:30] feat: add accessible screen reader announcements for live updates
