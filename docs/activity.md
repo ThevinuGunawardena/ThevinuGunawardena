@@ -338,3 +338,4 @@
 - [2026-02-20T13:07:39+05:30] refactor: simplify state transitions in navigation controller
 - [2026-02-20T15:55:33+05:30] feat: add multi-language i18n translation key loader
 - [2026-02-20T20:55:52+05:30] feat: support dynamic og:image meta tags for social sharing
+- [2026-02-23T14:21:58+05:30] refactor: extract reusable button variants into styling tokens
