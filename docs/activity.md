@@ -563,3 +563,4 @@
 - [2026-02-23T21:41:03+05:30] feat: implement clipboard copy helper with tooltip feedback
 - [2026-02-25T15:48:31+05:30] feat: enhance search filter with fuzzy match algorithm
 - [2026-02-26T09:49:06+05:30] chore: bump devDependencies and audit npm package security
+- [2026-03-01T18:19:31+05:30] docs: add contributor guidelines and development setup instructions
