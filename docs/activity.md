@@ -565,3 +565,4 @@
 - [2026-02-26T09:49:06+05:30] chore: bump devDependencies and audit npm package security
 - [2026-03-01T18:19:31+05:30] docs: add contributor guidelines and development setup instructions
 - [2026-03-02T17:30:28+05:30] refactor: streamline animation keyframes for cleaner CSS syntax
+- [2026-03-02T18:05:54+05:30] feat: implement collapsible sidebar drawer for mobile navigation
