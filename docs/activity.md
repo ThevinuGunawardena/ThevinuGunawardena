@@ -566,3 +566,4 @@
 - [2026-03-01T18:19:31+05:30] docs: add contributor guidelines and development setup instructions
 - [2026-03-02T17:30:28+05:30] refactor: streamline animation keyframes for cleaner CSS syntax
 - [2026-03-02T18:05:54+05:30] feat: implement collapsible sidebar drawer for mobile navigation
+- [2026-03-04T11:34:42+05:30] feat: add smooth page transitions using view transitions API
