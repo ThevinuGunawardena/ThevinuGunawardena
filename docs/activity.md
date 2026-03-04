@@ -349,3 +349,4 @@
 - [2026-02-26T19:39:09+05:30] docs: add setup and development guidelines in README
 - [2026-02-27T13:53:19+05:30] docs: update API integration documentation and sample responses
 - [2026-03-02T21:10:54+05:30] chore: bump dependencies and audit security vulnerabilities
+- [2026-03-04T13:35:46+05:30] feat: support dynamic og:image meta tags for social sharing
