@@ -353,3 +353,4 @@
 - [2026-03-04T15:53:40+05:30] fix: handle null values in user profile data mapper
 - [2026-03-04T20:15:22+05:30] test: add unit tests for utility string formatting functions
 - [2026-03-05T09:48:23+05:30] fix: correct date parsing for timezone offset mismatch
+- [2026-03-05T14:55:14+05:30] style: polish typography scale, line heights, and letter spacing
