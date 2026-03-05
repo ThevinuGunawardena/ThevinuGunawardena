@@ -355,3 +355,4 @@
 - [2026-03-05T09:48:23+05:30] fix: correct date parsing for timezone offset mismatch
 - [2026-03-05T14:55:14+05:30] style: polish typography scale, line heights, and letter spacing
 - [2026-03-05T17:49:40+05:30] refactor: consolidate media queries into standard breakpoints
+- [2026-03-05T18:21:59+05:30] perf: reduce DOM reflows during continuous scroll events
