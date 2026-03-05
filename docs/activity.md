@@ -568,3 +568,4 @@
 - [2026-03-02T18:05:54+05:30] feat: implement collapsible sidebar drawer for mobile navigation
 - [2026-03-04T11:34:42+05:30] feat: add smooth page transitions using view transitions API
 - [2026-03-04T17:40:42+05:30] fix: repair broken anchor links in navigation menu list
+- [2026-03-05T09:47:15+05:30] fix: ensure smooth font antialiasing on high-DPI retina displays
