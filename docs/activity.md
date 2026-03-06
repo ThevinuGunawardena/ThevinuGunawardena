@@ -571,3 +571,4 @@
 - [2026-03-05T09:47:15+05:30] fix: ensure smooth font antialiasing on high-DPI retina displays
 - [2026-03-05T19:22:41+05:30] test: add automated assertions for responsive grid layout breakpoints
 - [2026-03-06T12:06:01+05:30] refactor: modularize CSS custom properties into shared tokens file
+- [2026-03-06T20:13:08+05:30] feat: add interactive project card hover tilt physics effect
