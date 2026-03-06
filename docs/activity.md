@@ -356,3 +356,4 @@
 - [2026-03-05T14:55:14+05:30] style: polish typography scale, line heights, and letter spacing
 - [2026-03-05T17:49:40+05:30] refactor: consolidate media queries into standard breakpoints
 - [2026-03-05T18:21:59+05:30] perf: reduce DOM reflows during continuous scroll events
+- [2026-03-06T16:37:26+05:30] feat: add form input validation and custom error hints
