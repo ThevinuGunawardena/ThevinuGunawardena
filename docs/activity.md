@@ -574,3 +574,4 @@
 - [2026-03-06T20:13:08+05:30] feat: add interactive project card hover tilt physics effect
 - [2026-03-06T22:18:59+05:30] feat: implement lazy loading intersection observer for images
 - [2026-03-09T10:27:17+05:30] fix: prevent memory leak in window scroll event listener
+- [2026-03-10T16:16:52+05:30] perf: minimize DOM reflows during scroll interactions
