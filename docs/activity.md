@@ -576,3 +576,4 @@
 - [2026-03-09T10:27:17+05:30] fix: prevent memory leak in window scroll event listener
 - [2026-03-10T16:16:52+05:30] perf: minimize DOM reflows during scroll interactions
 - [2026-03-10T18:51:23+05:30] feat: add animated particle canvas background effect
+- [2026-03-13T21:50:28+05:30] fix: repair broken anchor links in navigation menu list
