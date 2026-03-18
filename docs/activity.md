@@ -367,3 +367,4 @@
 - [2026-03-18T09:40:09+05:30] feat: integrate custom SVG icon set into navigation bar
 - [2026-03-18T10:58:59+05:30] perf: reduce DOM reflows during continuous scroll events
 - [2026-03-18T14:32:13+05:30] chore: bump dependencies and audit security vulnerabilities
+- [2026-03-18T20:31:12+05:30] docs: update component usage specifications and props table
