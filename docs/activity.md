@@ -583,3 +583,4 @@
 - [2026-03-18T13:15:13+05:30] refactor: decouple network request client from UI components
 - [2026-03-18T15:01:34+05:30] feat: add interactive project card hover tilt physics effect
 - [2026-03-19T11:52:46+05:30] feat: support dynamic theme switching with prefers-color-scheme
+- [2026-03-19T18:20:52+05:30] feat: add client-side caching for GitHub REST API responses
