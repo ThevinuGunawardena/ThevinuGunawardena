@@ -587,3 +587,4 @@
 - [2026-03-20T10:55:00+05:30] docs: update API endpoints specification and example payloads
 - [2026-03-20T17:50:17+05:30] feat: add animated particle canvas background effect
 - [2026-03-20T18:21:10+05:30] refactor: clean up deprecated utility classes and unused keyframes
+- [2026-03-20T19:54:54+05:30] docs: update API endpoints specification and example payloads
