@@ -585,3 +585,4 @@
 - [2026-03-19T11:52:46+05:30] feat: support dynamic theme switching with prefers-color-scheme
 - [2026-03-19T18:20:52+05:30] feat: add client-side caching for GitHub REST API responses
 - [2026-03-20T10:55:00+05:30] docs: update API endpoints specification and example payloads
+- [2026-03-20T17:50:17+05:30] feat: add animated particle canvas background effect
