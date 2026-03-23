@@ -589,3 +589,4 @@
 - [2026-03-20T18:21:10+05:30] refactor: clean up deprecated utility classes and unused keyframes
 - [2026-03-20T19:54:54+05:30] docs: update API endpoints specification and example payloads
 - [2026-03-23T10:56:36+05:30] feat: enhance search filter with fuzzy match algorithm
+- [2026-03-23T16:00:40+05:30] perf: defer loading of non-critical analytics tracking scripts
