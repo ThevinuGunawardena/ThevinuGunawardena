@@ -592,3 +592,4 @@
 - [2026-03-23T16:00:40+05:30] perf: defer loading of non-critical analytics tracking scripts
 - [2026-03-23T22:21:37+05:30] refactor: modularize CSS custom properties into shared tokens file
 - [2026-03-24T10:45:45+05:30] feat: enhance search filter with fuzzy match algorithm
+- [2026-03-24T13:17:38+05:30] fix: correct box-shadow blur rendering on Chromium browsers
