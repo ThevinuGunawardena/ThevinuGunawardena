@@ -374,3 +374,4 @@
 - [2026-03-24T11:55:07+05:30] docs: update component usage specifications and props table
 - [2026-03-24T14:19:07+05:30] style: fine-tune modal popup box-shadow and blur radius
 - [2026-03-24T16:36:18+05:30] fix: correct viewport height calculation on mobile browsers
+- [2026-03-24T18:53:02+05:30] fix: handle edge case when search results array is empty
