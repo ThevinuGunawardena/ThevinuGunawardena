@@ -372,3 +372,4 @@
 - [2026-03-19T17:13:15+05:30] feat: implement dark mode theme toggle and local storage sync
 - [2026-03-20T18:34:22+05:30] style: polish typography scale, line heights, and letter spacing
 - [2026-03-24T11:55:07+05:30] docs: update component usage specifications and props table
+- [2026-03-24T14:19:07+05:30] style: fine-tune modal popup box-shadow and blur radius
