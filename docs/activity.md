@@ -595,3 +595,4 @@
 - [2026-03-24T13:17:38+05:30] fix: correct box-shadow blur rendering on Chromium browsers
 - [2026-03-25T14:54:57+05:30] chore: configure automated Prettier and ESLint linting rules
 - [2026-03-25T16:42:28+05:30] perf: throttle mousemove handlers for card 3D tilt effects
+- [2026-03-25T19:40:56+05:30] feat: support offline service worker caching for static assets
