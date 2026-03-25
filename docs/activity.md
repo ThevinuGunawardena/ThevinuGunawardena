@@ -593,3 +593,4 @@
 - [2026-03-23T22:21:37+05:30] refactor: modularize CSS custom properties into shared tokens file
 - [2026-03-24T10:45:45+05:30] feat: enhance search filter with fuzzy match algorithm
 - [2026-03-24T13:17:38+05:30] fix: correct box-shadow blur rendering on Chromium browsers
+- [2026-03-25T14:54:57+05:30] chore: configure automated Prettier and ESLint linting rules
