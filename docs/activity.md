@@ -380,3 +380,4 @@
 - [2026-03-25T21:47:08+05:30] refactor: modularize javascript event listener bindings
 - [2026-03-26T13:33:01+05:30] fix: correct date parsing for timezone offset mismatch
 - [2026-03-26T15:21:57+05:30] fix: ensure accessible aria-labels on icon-only buttons
+- [2026-03-26T18:50:45+05:30] docs: refine project architectural overview and roadmap
