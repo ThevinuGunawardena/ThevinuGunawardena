@@ -601,3 +601,4 @@
 - [2026-03-28T12:19:13+05:30] feat: add responsive layout breakpoints for ultra-wide displays
 - [2026-03-28T20:44:25+05:30] feat: add responsive layout breakpoints for ultra-wide displays
 - [2026-03-30T10:22:18+05:30] perf: reduce bundle size by pruning unused SVG path assets
+- [2026-03-30T15:48:29+05:30] refactor: streamline animation keyframes for cleaner CSS syntax
