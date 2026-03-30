@@ -600,3 +600,4 @@
 - [2026-03-27T18:50:11+05:30] feat: support offline service worker caching for static assets
 - [2026-03-28T12:19:13+05:30] feat: add responsive layout breakpoints for ultra-wide displays
 - [2026-03-28T20:44:25+05:30] feat: add responsive layout breakpoints for ultra-wide displays
+- [2026-03-30T10:22:18+05:30] perf: reduce bundle size by pruning unused SVG path assets
