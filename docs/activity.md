@@ -384,3 +384,4 @@
 - [2026-03-27T15:22:30+05:30] perf: reduce DOM reflows during continuous scroll events
 - [2026-03-29T10:31:58+05:30] docs: refine project architectural overview and roadmap
 - [2026-03-31T10:32:22+05:30] feat: implement debounced search input component
+- [2026-03-31T13:14:28+05:30] fix: ensure accessible aria-labels on icon-only buttons
