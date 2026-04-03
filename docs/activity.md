@@ -392,3 +392,4 @@
 - [2026-04-02T15:56:57+05:30] docs: update API integration documentation and sample responses
 - [2026-04-02T21:44:28+05:30] style: polish typography scale, line heights, and letter spacing
 - [2026-04-03T12:50:18+05:30] chore: bump dependencies and audit security vulnerabilities
+- [2026-04-03T14:35:05+05:30] fix: prevent event bubbling on card click handler
