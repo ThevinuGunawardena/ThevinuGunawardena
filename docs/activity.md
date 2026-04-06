@@ -607,3 +607,4 @@
 - [2026-04-03T13:23:15+05:30] feat: integrate custom SVG icons for tech stack badge chips
 - [2026-04-06T17:35:58+05:30] fix: address margin collapsing inside flex column containers
 - [2026-04-06T18:09:11+05:30] refactor: decouple network request client from UI components
+- [2026-04-06T19:30:26+05:30] feat: enhance search filter with fuzzy match algorithm
