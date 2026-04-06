@@ -605,3 +605,4 @@
 - [2026-03-31T20:23:54+05:30] test: verify cross-browser compatibility across Chromium, Firefox, WebKit
 - [2026-04-01T21:11:56+05:30] feat: implement clipboard copy helper with tooltip feedback
 - [2026-04-03T13:23:15+05:30] feat: integrate custom SVG icons for tech stack badge chips
+- [2026-04-06T17:35:58+05:30] fix: address margin collapsing inside flex column containers
