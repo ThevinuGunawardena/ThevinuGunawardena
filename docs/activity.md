@@ -606,3 +606,4 @@
 - [2026-04-01T21:11:56+05:30] feat: implement clipboard copy helper with tooltip feedback
 - [2026-04-03T13:23:15+05:30] feat: integrate custom SVG icons for tech stack badge chips
 - [2026-04-06T17:35:58+05:30] fix: address margin collapsing inside flex column containers
+- [2026-04-06T18:09:11+05:30] refactor: decouple network request client from UI components
