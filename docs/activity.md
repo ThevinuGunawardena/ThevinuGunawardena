@@ -394,3 +394,4 @@
 - [2026-04-03T12:50:18+05:30] chore: bump dependencies and audit security vulnerabilities
 - [2026-04-03T14:35:05+05:30] fix: prevent event bubbling on card click handler
 - [2026-04-03T14:30:14+05:30] refactor: decouple API request logic from UI presentation layer
+- [2026-04-06T09:08:06+05:30] fix: address margin collapse on nested container elements
