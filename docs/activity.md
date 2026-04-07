@@ -397,3 +397,4 @@
 - [2026-04-06T09:08:06+05:30] fix: address margin collapse on nested container elements
 - [2026-04-06T09:12:37+05:30] perf: reduce DOM reflows during continuous scroll events
 - [2026-04-06T21:17:33+05:30] fix: address margin collapse on nested container elements
+- [2026-04-07T13:57:25+05:30] chore: configure prettier and eslint formatting rules
