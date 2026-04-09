@@ -613,3 +613,4 @@
 - [2026-04-08T19:41:38+05:30] feat: implement collapsible sidebar drawer for mobile navigation
 - [2026-04-09T11:53:37+05:30] perf: optimize critical rendering path by preloading key fonts
 - [2026-04-09T16:33:28+05:30] docs: update project architecture diagram and tech stack in README
+- [2026-04-09T20:37:56+05:30] perf: compress vector graphics using SVGO optimization rules
