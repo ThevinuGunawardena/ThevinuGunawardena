@@ -403,3 +403,4 @@
 - [2026-04-08T12:27:34+05:30] fix: correct z-index stacking context for dropdown menu
 - [2026-04-08T21:01:47+05:30] feat: integrate custom SVG icon set into navigation bar
 - [2026-04-09T15:15:22+05:30] refactor: simplify state transitions in navigation controller
+- [2026-04-09T16:40:35+05:30] fix: ensure accessible aria-labels on icon-only buttons
