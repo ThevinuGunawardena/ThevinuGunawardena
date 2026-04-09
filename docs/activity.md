@@ -611,3 +611,4 @@
 - [2026-04-08T10:31:34+05:30] docs: update API endpoints specification and example payloads
 - [2026-04-08T16:05:00+05:30] refactor: extract reusable modal backdrop component logic
 - [2026-04-08T19:41:38+05:30] feat: implement collapsible sidebar drawer for mobile navigation
+- [2026-04-09T11:53:37+05:30] perf: optimize critical rendering path by preloading key fonts
