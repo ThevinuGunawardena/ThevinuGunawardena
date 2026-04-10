@@ -404,3 +404,4 @@
 - [2026-04-08T21:01:47+05:30] feat: integrate custom SVG icon set into navigation bar
 - [2026-04-09T15:15:22+05:30] refactor: simplify state transitions in navigation controller
 - [2026-04-09T16:40:35+05:30] fix: ensure accessible aria-labels on icon-only buttons
+- [2026-04-10T14:14:35+05:30] fix: prevent event bubbling on card click handler
