@@ -620,3 +620,4 @@
 - [2026-04-17T22:18:17+05:30] feat: implement clipboard copy helper with tooltip feedback
 - [2026-04-18T13:43:35+05:30] docs: add contributor guidelines and development setup instructions
 - [2026-04-20T09:17:52+05:30] feat: implement clipboard copy helper with tooltip feedback
+- [2026-04-20T16:47:22+05:30] feat: implement collapsible sidebar drawer for mobile navigation
