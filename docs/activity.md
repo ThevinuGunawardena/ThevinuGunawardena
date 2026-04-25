@@ -622,3 +622,4 @@
 - [2026-04-20T09:17:52+05:30] feat: implement clipboard copy helper with tooltip feedback
 - [2026-04-20T16:47:22+05:30] feat: implement collapsible sidebar drawer for mobile navigation
 - [2026-04-21T22:58:47+05:30] fix: resolve subtle flicker during theme mode transitions
+- [2026-04-25T22:15:01+05:30] feat: add interactive project card hover tilt physics effect
