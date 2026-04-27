@@ -14,3 +14,4 @@
 - [2026-04-23T15:00:49+05:30] feat: enhance responsive layout for tablet viewports
 - [2026-04-23T10:03:39+05:30] feat: enhance responsive layout for tablet viewports
 - [2026-04-27T10:22:08+05:30] style: polish typography scale and line heights
+- [2026-04-27T19:31:24+05:30] fix: correct mobile menu dropdown z-index stacking
