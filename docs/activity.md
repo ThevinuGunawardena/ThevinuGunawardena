@@ -624,3 +624,4 @@
 - [2026-04-21T22:58:47+05:30] fix: resolve subtle flicker during theme mode transitions
 - [2026-04-25T22:15:01+05:30] feat: add interactive project card hover tilt physics effect
 - [2026-04-27T09:01:13+05:30] feat: enhance search filter with fuzzy match algorithm
+- [2026-04-29T17:27:28+05:30] refactor: decouple network request client from UI components
