@@ -16,3 +16,4 @@
 - [2026-04-27T10:22:08+05:30] style: polish typography scale and line heights
 - [2026-04-27T19:31:24+05:30] fix: correct mobile menu dropdown z-index stacking
 - [2026-04-29T10:52:57+05:30] feat: add svg icon bundle for brand assets
+- [2026-04-29T18:09:06+05:30] style: polish typography scale and line heights
