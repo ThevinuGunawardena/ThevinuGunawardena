@@ -18,3 +18,4 @@
 - [2026-04-29T10:52:57+05:30] feat: add svg icon bundle for brand assets
 - [2026-04-29T18:09:06+05:30] style: polish typography scale and line heights
 - [2026-04-30T11:08:12+05:30] feat: add subtle glassmorphic backdrop filter effects
+- [2026-04-30T16:59:45+05:30] docs: refine project architectural overview
