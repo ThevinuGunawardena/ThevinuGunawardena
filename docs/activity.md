@@ -19,3 +19,4 @@
 - [2026-04-29T18:09:06+05:30] style: polish typography scale and line heights
 - [2026-04-30T11:08:12+05:30] feat: add subtle glassmorphic backdrop filter effects
 - [2026-04-30T16:59:45+05:30] docs: refine project architectural overview
+- [2026-05-01T16:59:39+05:30] feat: enhance responsive layout for tablet viewports
