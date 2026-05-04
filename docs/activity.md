@@ -628,3 +628,4 @@
 - [2026-04-29T22:46:13+05:30] refactor: organize project directory structure and asset folders
 - [2026-05-01T14:20:17+05:30] refactor: consolidate responsive media query rules
 - [2026-05-04T17:42:34+05:30] refactor: organize project directory structure and asset folders
+- [2026-05-04T19:48:21+05:30] fix: address margin collapsing inside flex column containers
