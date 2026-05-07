@@ -25,3 +25,4 @@
 - [2026-05-02T11:06:19+05:30] feat: add svg icon bundle for brand assets
 - [2026-05-05T20:53:14+05:30] refactor: consolidate media queries into standard breakpoints
 - [2026-05-07T17:37:11+05:30] fix: correct mobile menu dropdown z-index stacking
+- [2026-05-07T12:01:13+05:30] refactor: consolidate media queries into standard breakpoints
