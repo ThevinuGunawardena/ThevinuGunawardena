@@ -631,3 +631,4 @@
 - [2026-05-04T19:48:21+05:30] fix: address margin collapsing inside flex column containers
 - [2026-05-06T10:24:33+05:30] fix: prevent event bubbling on project card click handlers
 - [2026-05-08T10:43:17+05:30] chore: bump devDependencies and audit npm package security
+- [2026-05-08T22:00:30+05:30] refactor: streamline animation keyframes for cleaner CSS syntax
