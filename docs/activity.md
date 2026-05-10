@@ -28,3 +28,4 @@
 - [2026-05-07T12:01:13+05:30] refactor: consolidate media queries into standard breakpoints
 - [2026-05-10T13:33:33+05:30] perf: reduce dom reflows during scroll interactions
 - [2026-05-10T11:35:23+05:30] chore: organize asset directory structure
+- [2026-05-10T15:20:57+05:30] feat: enhance form input validation and error prompts
