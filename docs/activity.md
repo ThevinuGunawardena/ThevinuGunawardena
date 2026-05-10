@@ -26,3 +26,4 @@
 - [2026-05-05T20:53:14+05:30] refactor: consolidate media queries into standard breakpoints
 - [2026-05-07T17:37:11+05:30] fix: correct mobile menu dropdown z-index stacking
 - [2026-05-07T12:01:13+05:30] refactor: consolidate media queries into standard breakpoints
+- [2026-05-10T13:33:33+05:30] perf: reduce dom reflows during scroll interactions
