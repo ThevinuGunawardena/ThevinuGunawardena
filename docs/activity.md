@@ -34,3 +34,4 @@
 - [2026-05-11T14:07:54+05:30] docs: document design system spacing tokens
 - [2026-05-11T20:10:20+05:30] fix: address margin collapse on card container elements
 - [2026-05-11T17:56:49+05:30] style: fine-tune modal popup box-shadow and blur
+- [2026-05-11T13:20:31+05:30] feat: integrate accessible aria labels across navigation
