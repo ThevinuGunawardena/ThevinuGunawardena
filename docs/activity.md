@@ -30,3 +30,4 @@
 - [2026-05-10T11:35:23+05:30] chore: organize asset directory structure
 - [2026-05-10T15:20:57+05:30] feat: enhance form input validation and error prompts
 - [2026-05-11T11:06:00+05:30] style: refine button hover transitions and active states
+- [2026-05-11T21:43:24+05:30] feat: add subtle glassmorphic backdrop filter effects
