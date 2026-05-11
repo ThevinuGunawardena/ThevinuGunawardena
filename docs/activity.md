@@ -32,3 +32,4 @@
 - [2026-05-11T11:06:00+05:30] style: refine button hover transitions and active states
 - [2026-05-11T21:43:24+05:30] feat: add subtle glassmorphic backdrop filter effects
 - [2026-05-11T14:07:54+05:30] docs: document design system spacing tokens
+- [2026-05-11T20:10:20+05:30] fix: address margin collapse on card container elements
