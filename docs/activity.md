@@ -632,3 +632,4 @@
 - [2026-05-06T10:24:33+05:30] fix: prevent event bubbling on project card click handlers
 - [2026-05-08T10:43:17+05:30] chore: bump devDependencies and audit npm package security
 - [2026-05-08T22:00:30+05:30] refactor: streamline animation keyframes for cleaner CSS syntax
+- [2026-05-11T18:20:38+05:30] perf: reduce bundle size by pruning unused SVG path assets
