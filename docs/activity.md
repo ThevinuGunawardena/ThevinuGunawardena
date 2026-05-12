@@ -634,3 +634,4 @@
 - [2026-05-08T22:00:30+05:30] refactor: streamline animation keyframes for cleaner CSS syntax
 - [2026-05-11T18:20:38+05:30] perf: reduce bundle size by pruning unused SVG path assets
 - [2026-05-12T11:47:12+05:30] feat: add keyboard navigation accessibility traps for modals
+- [2026-05-12T19:19:28+05:30] refactor: clean up deprecated utility classes and unused keyframes
