@@ -633,3 +633,4 @@
 - [2026-05-08T10:43:17+05:30] chore: bump devDependencies and audit npm package security
 - [2026-05-08T22:00:30+05:30] refactor: streamline animation keyframes for cleaner CSS syntax
 - [2026-05-11T18:20:38+05:30] perf: reduce bundle size by pruning unused SVG path assets
+- [2026-05-12T11:47:12+05:30] feat: add keyboard navigation accessibility traps for modals
