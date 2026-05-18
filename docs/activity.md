@@ -637,3 +637,4 @@
 - [2026-05-12T19:19:28+05:30] refactor: clean up deprecated utility classes and unused keyframes
 - [2026-05-14T11:12:48+05:30] feat: enhance search filter with fuzzy match algorithm
 - [2026-05-14T15:12:13+05:30] refactor: modularize CSS custom properties into shared tokens file
+- [2026-05-18T14:31:54+05:30] perf: reduce bundle size by pruning unused SVG path assets
