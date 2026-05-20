@@ -41,3 +41,4 @@
 - [2026-05-18T16:42:06+05:30] feat: integrate accessible aria labels across navigation
 - [2026-05-18T14:31:43+05:30] feat: implement dark mode color contrast adjustments
 - [2026-05-18T16:47:34+05:30] feat: implement dark mode color contrast adjustments
+- [2026-05-20T12:18:10+05:30] fix: correct mobile menu dropdown z-index stacking
