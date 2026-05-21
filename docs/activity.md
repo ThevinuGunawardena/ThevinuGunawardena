@@ -44,3 +44,4 @@
 - [2026-05-20T12:18:10+05:30] fix: correct mobile menu dropdown z-index stacking
 - [2026-05-21T14:27:45+05:30] docs: refine project architectural overview
 - [2026-05-21T21:21:51+05:30] feat: add svg icon bundle for brand assets
+- [2026-05-21T12:56:35+05:30] feat: add subtle glassmorphic backdrop filter effects
