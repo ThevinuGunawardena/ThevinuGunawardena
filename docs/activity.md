@@ -641,3 +641,4 @@
 - [2026-05-18T16:49:14+05:30] refactor: modularize CSS custom properties into shared tokens file
 - [2026-05-21T19:52:00+05:30] docs: add contributor guidelines and development setup instructions
 - [2026-05-22T09:16:49+05:30] refactor: streamline animation keyframes for cleaner CSS syntax
+- [2026-05-22T10:56:19+05:30] fix: resolve iOS Safari 100vh dynamic toolbar height calculation
