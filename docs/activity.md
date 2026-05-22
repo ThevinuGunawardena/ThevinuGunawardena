@@ -47,3 +47,4 @@
 - [2026-05-21T12:56:35+05:30] feat: add subtle glassmorphic backdrop filter effects
 - [2026-05-22T15:52:18+05:30] feat: implement animated gradient accent borders
 - [2026-05-22T20:53:00+05:30] fix: correct mobile menu dropdown z-index stacking
+- [2026-05-22T16:01:53+05:30] chore: clean up legacy styles and unused keyframes
