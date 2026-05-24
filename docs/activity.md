@@ -50,3 +50,4 @@
 - [2026-05-22T16:01:53+05:30] chore: clean up legacy styles and unused keyframes
 - [2026-05-22T18:39:59+05:30] fix: correct mobile menu dropdown z-index stacking
 - [2026-05-22T21:45:01+05:30] feat: add svg icon bundle for brand assets
+- [2026-05-24T16:21:20+05:30] feat: implement dark mode color contrast adjustments
