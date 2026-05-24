@@ -51,3 +51,4 @@
 - [2026-05-22T18:39:59+05:30] fix: correct mobile menu dropdown z-index stacking
 - [2026-05-22T21:45:01+05:30] feat: add svg icon bundle for brand assets
 - [2026-05-24T16:21:20+05:30] feat: implement dark mode color contrast adjustments
+- [2026-05-24T17:38:36+05:30] feat: add svg icon bundle for brand assets
