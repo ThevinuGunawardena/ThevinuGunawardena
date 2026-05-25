@@ -52,3 +52,4 @@
 - [2026-05-22T21:45:01+05:30] feat: add svg icon bundle for brand assets
 - [2026-05-24T16:21:20+05:30] feat: implement dark mode color contrast adjustments
 - [2026-05-24T17:38:36+05:30] feat: add svg icon bundle for brand assets
+- [2026-05-25T11:50:17+05:30] docs: document design system spacing tokens
