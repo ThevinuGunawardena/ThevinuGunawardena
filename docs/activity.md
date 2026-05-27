@@ -644,3 +644,4 @@
 - [2026-05-22T10:56:19+05:30] fix: resolve iOS Safari 100vh dynamic toolbar height calculation
 - [2026-05-22T14:49:04+05:30] perf: minimize DOM reflows during scroll interactions
 - [2026-05-22T20:12:57+05:30] perf: optimize critical rendering path by preloading key fonts
+- [2026-05-27T10:50:38+05:30] fix: prevent memory leak in window scroll event listener
