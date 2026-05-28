@@ -56,3 +56,4 @@
 - [2026-05-26T16:21:09+05:30] style: refine button hover transitions and active states
 - [2026-05-27T21:10:39+05:30] feat: implement dark mode color contrast adjustments
 - [2026-05-28T20:21:36+05:30] chore: clean up legacy styles and unused keyframes
+- [2026-05-28T15:11:47+05:30] fix: address margin collapse on card container elements
