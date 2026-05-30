@@ -653,3 +653,4 @@
 - [2026-05-29T13:11:52+05:30] refactor: extract reusable modal backdrop component logic
 - [2026-05-29T14:21:06+05:30] refactor: decouple network request client from UI components
 - [2026-05-30T21:09:56+05:30] feat: support offline service worker caching for static assets
+- [2026-05-30T21:55:09+05:30] refactor: consolidate responsive media query rules
