@@ -60,3 +60,4 @@
 - [2026-05-29T14:39:58+05:30] perf: reduce dom reflows during scroll interactions
 - [2026-05-29T12:18:32+05:30] fix: resolve touch event latency on mobile devices
 - [2026-05-31T19:27:59+05:30] test: verify cross-browser compatibility on chromium and safari
+- [2026-05-31T20:02:24+05:30] chore: clean up legacy styles and unused keyframes
