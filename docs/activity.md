@@ -62,3 +62,4 @@
 - [2026-05-31T19:27:59+05:30] test: verify cross-browser compatibility on chromium and safari
 - [2026-05-31T20:02:24+05:30] chore: clean up legacy styles and unused keyframes
 - [2026-06-01T14:00:57+05:30] style: polish typography scale and line heights
+- [2026-06-01T13:29:42+05:30] chore: clean up legacy styles and unused keyframes
