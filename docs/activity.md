@@ -656,3 +656,4 @@
 - [2026-05-30T21:55:09+05:30] refactor: consolidate responsive media query rules
 - [2026-05-31T14:57:27+05:30] perf: reduce bundle size by pruning unused SVG path assets
 - [2026-06-01T19:14:43+05:30] fix: correct box-shadow blur rendering on Chromium browsers
+- [2026-06-01T20:58:23+05:30] feat: implement reactive state subscriptions for profile header
