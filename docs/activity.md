@@ -660,3 +660,4 @@
 - [2026-06-02T16:02:13+05:30] feat: integrate custom SVG icons for tech stack badge chips
 - [2026-06-03T19:44:53+05:30] feat: add keyboard navigation accessibility traps for modals
 - [2026-06-04T13:42:51+05:30] feat: enhance tab switching performance with memoized components
+- [2026-06-04T14:42:56+05:30] perf: reduce bundle size by pruning unused SVG path assets
