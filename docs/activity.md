@@ -71,3 +71,4 @@
 - [2026-06-10T11:47:17+05:30] fix: address margin collapse on card container elements
 - [2026-06-10T10:00:39+05:30] refactor: optimize css custom properties and color tokens
 - [2026-06-11T16:43:54+05:30] docs: refine project architectural overview
+- [2026-06-11T20:21:24+05:30] chore: organize asset directory structure
