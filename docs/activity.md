@@ -665,3 +665,4 @@
 - [2026-06-05T19:30:35+05:30] feat: implement reactive state subscriptions for profile header
 - [2026-06-10T11:08:25+05:30] perf: minimize DOM reflows during scroll interactions
 - [2026-06-11T18:03:37+05:30] test: verify cross-browser compatibility across Chromium, Firefox, WebKit
+- [2026-06-12T17:10:08+05:30] fix: prevent event bubbling on project card click handlers
