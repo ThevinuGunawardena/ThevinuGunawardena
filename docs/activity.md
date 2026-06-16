@@ -72,3 +72,4 @@
 - [2026-06-10T10:00:39+05:30] refactor: optimize css custom properties and color tokens
 - [2026-06-11T16:43:54+05:30] docs: refine project architectural overview
 - [2026-06-11T20:21:24+05:30] chore: organize asset directory structure
+- [2026-06-16T19:56:50+05:30] style: refine button hover transitions and active states
