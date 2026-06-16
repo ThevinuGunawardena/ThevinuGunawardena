@@ -668,3 +668,4 @@
 - [2026-06-12T17:10:08+05:30] fix: prevent event bubbling on project card click handlers
 - [2026-06-14T09:44:48+05:30] fix: resolve touch event latency on mobile touchscreens
 - [2026-06-16T10:29:17+05:30] feat: implement clipboard copy helper with tooltip feedback
+- [2026-06-16T19:27:09+05:30] docs: update API endpoints specification and example payloads
