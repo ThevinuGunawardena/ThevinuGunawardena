@@ -75,3 +75,4 @@
 - [2026-06-16T19:56:50+05:30] style: refine button hover transitions and active states
 - [2026-06-17T19:26:54+05:30] feat: implement dark mode color contrast adjustments
 - [2026-06-17T13:49:21+05:30] fix: address margin collapse on card container elements
+- [2026-06-17T21:55:03+05:30] chore: organize asset directory structure
