@@ -78,3 +78,4 @@
 - [2026-06-17T21:55:03+05:30] chore: organize asset directory structure
 - [2026-06-17T14:51:23+05:30] refactor: optimize css custom properties and color tokens
 - [2026-06-17T21:07:52+05:30] test: verify cross-browser compatibility on chromium and safari
+- [2026-06-17T21:01:33+05:30] docs: refine project architectural overview
