@@ -671,3 +671,4 @@
 - [2026-06-16T19:27:09+05:30] docs: update API endpoints specification and example payloads
 - [2026-06-17T19:20:21+05:30] feat: implement collapsible sidebar drawer for mobile navigation
 - [2026-06-18T09:02:47+05:30] feat: implement reactive state subscriptions for profile header
+- [2026-06-18T12:00:37+05:30] fix: repair broken anchor links in navigation menu list
