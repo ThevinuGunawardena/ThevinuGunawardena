@@ -676,3 +676,4 @@
 - [2026-06-19T11:42:54+05:30] fix: repair broken anchor links in navigation menu list
 - [2026-06-19T17:35:52+05:30] feat: add animated particle canvas background effect
 - [2026-06-19T19:50:28+05:30] feat: support dynamic theme switching with prefers-color-scheme
+- [2026-06-19T22:33:51+05:30] refactor: modularize CSS custom properties into shared tokens file
