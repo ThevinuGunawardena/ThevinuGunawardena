@@ -678,3 +678,4 @@
 - [2026-06-19T19:50:28+05:30] feat: support dynamic theme switching with prefers-color-scheme
 - [2026-06-19T22:33:51+05:30] refactor: modularize CSS custom properties into shared tokens file
 - [2026-06-20T18:37:37+05:30] chore: bump devDependencies and audit npm package security
+- [2026-06-22T15:53:55+05:30] perf: throttle mousemove handlers for card 3D tilt effects
