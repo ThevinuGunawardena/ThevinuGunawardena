@@ -87,3 +87,4 @@
 - [2026-06-23T20:15:52+05:30] docs: update component usage specifications
 - [2026-06-23T17:36:27+05:30] style: fine-tune modal popup box-shadow and blur
 - [2026-06-23T15:40:16+05:30] refactor: modularize javascript event listeners
+- [2026-06-23T11:06:06+05:30] feat: enhance form input validation and error prompts
