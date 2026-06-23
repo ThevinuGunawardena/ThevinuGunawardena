@@ -84,3 +84,4 @@
 - [2026-06-19T21:28:37+05:30] test: verify cross-browser compatibility on chromium and safari
 - [2026-06-20T20:55:52+05:30] docs: document design system spacing tokens
 - [2026-06-21T14:49:52+05:30] fix: resolve flexbox alignment in navigation header
+- [2026-06-23T20:15:52+05:30] docs: update component usage specifications
