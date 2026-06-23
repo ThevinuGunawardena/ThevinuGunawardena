@@ -86,3 +86,4 @@
 - [2026-06-21T14:49:52+05:30] fix: resolve flexbox alignment in navigation header
 - [2026-06-23T20:15:52+05:30] docs: update component usage specifications
 - [2026-06-23T17:36:27+05:30] style: fine-tune modal popup box-shadow and blur
+- [2026-06-23T15:40:16+05:30] refactor: modularize javascript event listeners
