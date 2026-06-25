@@ -683,3 +683,4 @@
 - [2026-06-25T11:38:19+05:30] feat: add client-side caching for GitHub REST API responses
 - [2026-06-25T12:26:27+05:30] docs: update project architecture diagram and tech stack in README
 - [2026-06-25T13:47:20+05:30] feat: implement clipboard copy helper with tooltip feedback
+- [2026-06-25T13:50:44+05:30] feat: enhance search filter with fuzzy match algorithm
