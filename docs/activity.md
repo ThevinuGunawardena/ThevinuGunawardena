@@ -680,3 +680,4 @@
 - [2026-06-20T18:37:37+05:30] chore: bump devDependencies and audit npm package security
 - [2026-06-22T15:53:55+05:30] perf: throttle mousemove handlers for card 3D tilt effects
 - [2026-06-25T10:56:15+05:30] perf: throttle mousemove handlers for card 3D tilt effects
+- [2026-06-25T11:38:19+05:30] feat: add client-side caching for GitHub REST API responses
