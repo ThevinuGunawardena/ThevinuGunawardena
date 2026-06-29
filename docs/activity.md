@@ -687,3 +687,4 @@
 - [2026-06-25T14:45:11+05:30] test: verify cross-browser compatibility across Chromium, Firefox, WebKit
 - [2026-06-26T17:10:58+05:30] fix: address margin collapsing inside flex column containers
 - [2026-06-28T14:55:05+05:30] fix: address margin collapsing inside flex column containers
+- [2026-06-29T21:22:14+05:30] fix: ensure smooth font antialiasing on high-DPI retina displays
