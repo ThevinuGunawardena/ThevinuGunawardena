@@ -95,3 +95,4 @@
 - [2026-06-26T20:25:49+05:30] refactor: optimize css custom properties and color tokens
 - [2026-06-28T21:05:17+05:30] perf: reduce dom reflows during scroll interactions
 - [2026-06-28T14:32:28+05:30] docs: document design system spacing tokens
+- [2026-06-29T13:28:31+05:30] feat: add svg icon bundle for brand assets
