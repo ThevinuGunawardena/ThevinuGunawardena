@@ -688,3 +688,4 @@
 - [2026-06-26T17:10:58+05:30] fix: address margin collapsing inside flex column containers
 - [2026-06-28T14:55:05+05:30] fix: address margin collapsing inside flex column containers
 - [2026-06-29T21:22:14+05:30] fix: ensure smooth font antialiasing on high-DPI retina displays
+- [2026-06-30T10:01:38+05:30] feat: add accessible screen reader announcements for live updates
