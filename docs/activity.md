@@ -691,3 +691,4 @@
 - [2026-06-30T10:01:38+05:30] feat: add accessible screen reader announcements for live updates
 - [2026-06-30T11:59:58+05:30] feat: implement clipboard copy helper with tooltip feedback
 - [2026-06-30T11:11:59+05:30] feat: support offline service worker caching for static assets
+- [2026-06-30T11:47:38+05:30] fix: prevent memory leak in window scroll event listener
