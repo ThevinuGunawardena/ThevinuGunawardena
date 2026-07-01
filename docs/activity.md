@@ -98,3 +98,4 @@
 - [2026-06-29T13:28:31+05:30] feat: add svg icon bundle for brand assets
 - [2026-06-29T17:16:10+05:30] feat: enhance form input validation and error prompts
 - [2026-06-30T12:13:12+05:30] perf: reduce dom reflows during scroll interactions
+- [2026-07-01T15:02:51+05:30] fix: resolve flexbox alignment in navigation header
