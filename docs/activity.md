@@ -693,3 +693,4 @@
 - [2026-06-30T11:11:59+05:30] feat: support offline service worker caching for static assets
 - [2026-06-30T11:47:38+05:30] fix: prevent memory leak in window scroll event listener
 - [2026-07-01T10:29:53+05:30] feat: implement reactive state subscriptions for profile header
+- [2026-07-03T21:24:29+05:30] feat: add filter by tag pills for portfolio projects grid
