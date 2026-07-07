@@ -695,3 +695,4 @@
 - [2026-07-01T10:29:53+05:30] feat: implement reactive state subscriptions for profile header
 - [2026-07-03T21:24:29+05:30] feat: add filter by tag pills for portfolio projects grid
 - [2026-07-06T13:19:18+05:30] docs: add contributor guidelines and development setup instructions
+- [2026-07-07T20:10:54+05:30] feat: support dynamic theme switching with prefers-color-scheme
