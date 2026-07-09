@@ -697,3 +697,4 @@
 - [2026-07-06T13:19:18+05:30] docs: add contributor guidelines and development setup instructions
 - [2026-07-07T20:10:54+05:30] feat: support dynamic theme switching with prefers-color-scheme
 - [2026-07-09T13:38:08+05:30] docs: update API endpoints specification and example payloads
+- [2026-07-09T19:00:04+05:30] perf: reduce bundle size by pruning unused SVG path assets
