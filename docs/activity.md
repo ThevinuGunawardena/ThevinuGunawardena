@@ -108,3 +108,4 @@
 - [2026-07-07T11:54:51+05:30] style: polish typography scale and line heights
 - [2026-07-07T19:13:36+05:30] feat: add subtle glassmorphic backdrop filter effects
 - [2026-07-08T10:14:55+05:30] feat: add subtle glassmorphic backdrop filter effects
+- [2026-07-09T12:53:12+05:30] chore: clean up legacy styles and unused keyframes
