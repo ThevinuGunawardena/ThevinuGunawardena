@@ -109,3 +109,4 @@
 - [2026-07-07T19:13:36+05:30] feat: add subtle glassmorphic backdrop filter effects
 - [2026-07-08T10:14:55+05:30] feat: add subtle glassmorphic backdrop filter effects
 - [2026-07-09T12:53:12+05:30] chore: clean up legacy styles and unused keyframes
+- [2026-07-09T18:29:09+05:30] docs: update component usage specifications
