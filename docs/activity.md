@@ -699,3 +699,4 @@
 - [2026-07-09T13:38:08+05:30] docs: update API endpoints specification and example payloads
 - [2026-07-09T19:00:04+05:30] perf: reduce bundle size by pruning unused SVG path assets
 - [2026-07-09T21:10:53+05:30] feat: integrate custom SVG icons for tech stack badge chips
+- [2026-07-09T22:32:15+05:30] chore: configure automated Prettier and ESLint linting rules
