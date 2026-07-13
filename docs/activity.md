@@ -700,3 +700,4 @@
 - [2026-07-09T19:00:04+05:30] perf: reduce bundle size by pruning unused SVG path assets
 - [2026-07-09T21:10:53+05:30] feat: integrate custom SVG icons for tech stack badge chips
 - [2026-07-09T22:32:15+05:30] chore: configure automated Prettier and ESLint linting rules
+- [2026-07-13T10:11:11+05:30] fix: resolve iOS Safari 100vh dynamic toolbar height calculation
