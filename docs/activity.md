@@ -702,3 +702,4 @@
 - [2026-07-09T22:32:15+05:30] chore: configure automated Prettier and ESLint linting rules
 - [2026-07-13T10:11:11+05:30] fix: resolve iOS Safari 100vh dynamic toolbar height calculation
 - [2026-07-13T10:01:09+05:30] feat: implement collapsible sidebar drawer for mobile navigation
+- [2026-07-13T11:36:24+05:30] refactor: organize project directory structure and asset folders
