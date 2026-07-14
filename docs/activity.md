@@ -704,3 +704,4 @@
 - [2026-07-13T10:01:09+05:30] feat: implement collapsible sidebar drawer for mobile navigation
 - [2026-07-13T11:36:24+05:30] refactor: organize project directory structure and asset folders
 - [2026-07-13T20:18:12+05:30] fix: ensure smooth font antialiasing on high-DPI retina displays
+- [2026-07-14T16:44:56+05:30] perf: optimize critical rendering path by preloading key fonts
