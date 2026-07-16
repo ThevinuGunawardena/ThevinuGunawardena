@@ -118,3 +118,4 @@
 - [2026-07-15T12:22:24+05:30] docs: refine project architectural overview
 - [2026-07-16T14:09:48+05:30] feat: enhance responsive layout for tablet viewports
 - [2026-07-16T20:32:12+05:30] feat: add subtle glassmorphic backdrop filter effects
+- [2026-07-16T18:35:11+05:30] style: fine-tune modal popup box-shadow and blur
