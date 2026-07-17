@@ -120,3 +120,4 @@
 - [2026-07-16T20:32:12+05:30] feat: add subtle glassmorphic backdrop filter effects
 - [2026-07-16T18:35:11+05:30] style: fine-tune modal popup box-shadow and blur
 - [2026-07-16T21:10:22+05:30] feat: enhance form input validation and error prompts
+- [2026-07-17T17:00:30+05:30] refactor: consolidate media queries into standard breakpoints
