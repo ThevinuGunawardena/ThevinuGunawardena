@@ -139,3 +139,4 @@
 - [2026-07-23T11:25:45+05:30] feat: enhance responsive layout for tablet viewports
 - [2026-07-23T17:58:18+05:30] refactor: modularize javascript event listeners
 - [2026-07-23T13:52:31+05:30] chore: organize asset directory structure
+- [2026-07-26T19:45:42+05:30] style: fine-tune modal popup box-shadow and blur
