@@ -141,3 +141,4 @@
 - [2026-07-23T13:52:31+05:30] chore: organize asset directory structure
 - [2026-07-26T19:45:42+05:30] style: fine-tune modal popup box-shadow and blur
 - [2026-07-27T19:30:06+05:30] feat: add svg icon bundle for brand assets
+- [2026-07-27T20:21:02+05:30] docs: refine project architectural overview
