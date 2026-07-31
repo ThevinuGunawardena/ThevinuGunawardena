@@ -147,3 +147,4 @@
 - [2026-07-27T11:41:21+05:30] style: polish typography scale and line heights
 - [2026-07-29T18:14:49+05:30] docs: update component usage specifications
 - [2026-07-29T18:35:30+05:30] refactor: optimize css custom properties and color tokens
+- [2026-07-31T21:31:29+05:30] docs: refine project architectural overview
