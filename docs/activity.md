@@ -156,3 +156,4 @@
 - [2026-08-10T14:08:39+05:30] style: refine button hover transitions and active states
 - [2026-08-11T19:26:45+05:30] test: verify cross-browser compatibility on chromium and safari
 - [2026-08-12T21:39:48+05:30] docs: refine project architectural overview
+- [2026-08-12T18:08:36+05:30] chore: clean up legacy styles and unused keyframes
