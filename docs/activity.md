@@ -155,3 +155,4 @@
 - [2026-08-10T11:12:26+05:30] perf: optimize image asset compression and lazy loading
 - [2026-08-10T14:08:39+05:30] style: refine button hover transitions and active states
 - [2026-08-11T19:26:45+05:30] test: verify cross-browser compatibility on chromium and safari
+- [2026-08-12T21:39:48+05:30] docs: refine project architectural overview
