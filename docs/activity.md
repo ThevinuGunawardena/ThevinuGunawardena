@@ -158,3 +158,4 @@
 - [2026-08-12T21:39:48+05:30] docs: refine project architectural overview
 - [2026-08-12T18:08:36+05:30] chore: clean up legacy styles and unused keyframes
 - [2026-08-12T19:55:06+05:30] feat: add subtle glassmorphic backdrop filter effects
+- [2026-08-13T15:51:40+05:30] fix: resolve flexbox alignment in navigation header
