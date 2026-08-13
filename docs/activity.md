@@ -729,3 +729,4 @@
 - [2026-08-11T21:04:57+05:30] feat: add client-side caching for GitHub REST API responses
 - [2026-08-13T09:12:15+05:30] fix: repair broken anchor links in navigation menu list
 - [2026-08-13T11:54:00+05:30] fix: prevent memory leak in window scroll event listener
+- [2026-08-13T12:57:26+05:30] feat: add keyboard navigation accessibility traps for modals
