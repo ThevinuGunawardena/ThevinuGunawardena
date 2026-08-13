@@ -727,3 +727,4 @@
 - [2026-08-09T17:44:25+05:30] refactor: streamline animation keyframes for cleaner CSS syntax
 - [2026-08-10T13:13:28+05:30] fix: ensure proper ARIA attributes on tablist and tabpanel elements
 - [2026-08-11T21:04:57+05:30] feat: add client-side caching for GitHub REST API responses
+- [2026-08-13T09:12:15+05:30] fix: repair broken anchor links in navigation menu list
