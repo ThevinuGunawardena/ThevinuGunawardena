@@ -732,3 +732,4 @@
 - [2026-08-13T12:57:26+05:30] feat: add keyboard navigation accessibility traps for modals
 - [2026-08-13T13:14:21+05:30] chore: bump devDependencies and audit npm package security
 - [2026-08-13T16:46:32+05:30] feat: integrate custom SVG icons for tech stack badge chips
+- [2026-08-14T17:34:02+05:30] refactor: decouple network request client from UI components
