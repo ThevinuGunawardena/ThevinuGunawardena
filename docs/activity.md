@@ -734,3 +734,4 @@
 - [2026-08-13T16:46:32+05:30] feat: integrate custom SVG icons for tech stack badge chips
 - [2026-08-14T17:34:02+05:30] refactor: decouple network request client from UI components
 - [2026-08-17T14:11:47+05:30] fix: resolve subtle flicker during theme mode transitions
+- [2026-08-17T17:43:59+05:30] refactor: decouple network request client from UI components
