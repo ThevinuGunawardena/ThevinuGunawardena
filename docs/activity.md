@@ -162,3 +162,4 @@
 - [2026-08-15T15:21:43+05:30] docs: update component usage specifications
 - [2026-08-15T19:54:14+05:30] feat: add subtle glassmorphic backdrop filter effects
 - [2026-08-18T11:51:20+05:30] style: fine-tune modal popup box-shadow and blur
+- [2026-08-18T10:24:04+05:30] fix: resolve touch event latency on mobile devices
