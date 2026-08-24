@@ -738,3 +738,4 @@
 - [2026-08-20T20:25:01+05:30] fix: prevent memory leak in window scroll event listener
 - [2026-08-24T14:39:52+05:30] fix: ensure proper ARIA attributes on tablist and tabpanel elements
 - [2026-08-24T16:31:35+05:30] fix: resolve iOS Safari 100vh dynamic toolbar height calculation
+- [2026-08-24T19:35:52+05:30] fix: ensure smooth font antialiasing on high-DPI retina displays
