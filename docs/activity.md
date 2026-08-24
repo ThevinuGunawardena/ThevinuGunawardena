@@ -737,3 +737,4 @@
 - [2026-08-17T17:43:59+05:30] refactor: decouple network request client from UI components
 - [2026-08-20T20:25:01+05:30] fix: prevent memory leak in window scroll event listener
 - [2026-08-24T14:39:52+05:30] fix: ensure proper ARIA attributes on tablist and tabpanel elements
+- [2026-08-24T16:31:35+05:30] fix: resolve iOS Safari 100vh dynamic toolbar height calculation
