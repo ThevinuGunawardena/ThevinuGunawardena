@@ -740,3 +740,4 @@
 - [2026-08-24T16:31:35+05:30] fix: resolve iOS Safari 100vh dynamic toolbar height calculation
 - [2026-08-24T19:35:52+05:30] fix: ensure smooth font antialiasing on high-DPI retina displays
 - [2026-08-24T19:45:12+05:30] fix: correct box-shadow blur rendering on Chromium browsers
+- [2026-08-25T12:47:55+05:30] feat: integrate custom SVG icons for tech stack badge chips
