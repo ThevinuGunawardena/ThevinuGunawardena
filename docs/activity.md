@@ -743,3 +743,4 @@
 - [2026-08-25T12:47:55+05:30] feat: integrate custom SVG icons for tech stack badge chips
 - [2026-08-25T22:30:33+05:30] fix: correct box-shadow blur rendering on Chromium browsers
 - [2026-08-26T12:27:38+05:30] fix: repair broken anchor links in navigation menu list
+- [2026-08-26T19:43:22+05:30] feat: enhance tab switching performance with memoized components
