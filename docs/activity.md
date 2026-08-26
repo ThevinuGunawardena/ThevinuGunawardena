@@ -167,3 +167,4 @@
 - [2026-08-21T10:27:40+05:30] style: fine-tune modal popup box-shadow and blur
 - [2026-08-21T13:28:17+05:30] fix: resolve flexbox alignment in navigation header
 - [2026-08-24T19:17:05+05:30] fix: address margin collapse on card container elements
+- [2026-08-26T10:07:38+05:30] docs: refine project architectural overview
