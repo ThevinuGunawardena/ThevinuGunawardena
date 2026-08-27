@@ -748,3 +748,4 @@
 - [2026-08-27T14:03:06+05:30] feat: add keyboard navigation accessibility traps for modals
 - [2026-08-27T17:50:13+05:30] feat: implement clipboard copy helper with tooltip feedback
 - [2026-08-27T17:28:59+05:30] fix: resolve iOS Safari 100vh dynamic toolbar height calculation
+- [2026-08-27T18:55:22+05:30] fix: resolve touch event latency on mobile touchscreens
