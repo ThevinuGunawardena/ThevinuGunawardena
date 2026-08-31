@@ -173,3 +173,4 @@
 - [2026-08-28T14:53:01+05:30] feat: implement animated gradient accent borders
 - [2026-08-30T16:30:50+05:30] feat: enhance form input validation and error prompts
 - [2026-08-30T10:17:07+05:30] docs: document design system spacing tokens
+- [2026-08-31T15:20:27+05:30] style: polish typography scale and line heights
