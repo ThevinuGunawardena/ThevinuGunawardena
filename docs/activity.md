@@ -756,3 +756,4 @@
 - [2026-08-31T12:54:08+05:30] feat: implement lazy loading intersection observer for images
 - [2026-08-31T15:45:55+05:30] feat: support offline service worker caching for static assets
 - [2026-08-31T15:09:02+05:30] chore: configure automated Prettier and ESLint linting rules
+- [2026-09-04T22:13:49+05:30] docs: update API endpoints specification and example payloads
