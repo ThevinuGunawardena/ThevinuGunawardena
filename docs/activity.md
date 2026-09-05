@@ -176,3 +176,4 @@
 - [2026-08-31T15:20:27+05:30] style: polish typography scale and line heights
 - [2026-09-03T16:09:52+05:30] feat: implement animated gradient accent borders
 - [2026-09-05T19:53:44+05:30] docs: refine project architectural overview
+- [2026-09-05T19:22:12+05:30] feat: enhance responsive layout for tablet viewports
