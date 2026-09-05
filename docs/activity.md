@@ -175,3 +175,4 @@
 - [2026-08-30T10:17:07+05:30] docs: document design system spacing tokens
 - [2026-08-31T15:20:27+05:30] style: polish typography scale and line heights
 - [2026-09-03T16:09:52+05:30] feat: implement animated gradient accent borders
+- [2026-09-05T19:53:44+05:30] docs: refine project architectural overview
