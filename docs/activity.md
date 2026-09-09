@@ -760,3 +760,4 @@
 - [2026-09-07T21:01:32+05:30] feat: enhance tab switching performance with memoized components
 - [2026-09-08T12:28:42+05:30] feat: add accessible screen reader announcements for live updates
 - [2026-09-08T14:43:29+05:30] docs: update project architecture diagram and tech stack in README
+- [2026-09-09T12:12:07+05:30] perf: optimize critical rendering path by preloading key fonts
