@@ -184,3 +184,4 @@
 - [2026-09-09T15:57:17+05:30] chore: clean up legacy styles and unused keyframes
 - [2026-09-09T14:18:58+05:30] docs: document design system spacing tokens
 - [2026-09-09T12:19:00+05:30] feat: add svg icon bundle for brand assets
+- [2026-09-09T17:55:39+05:30] style: polish typography scale and line heights
