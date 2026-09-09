@@ -182,3 +182,4 @@
 - [2026-09-09T10:33:34+05:30] fix: resolve touch event latency on mobile devices
 - [2026-09-09T20:46:36+05:30] style: fine-tune modal popup box-shadow and blur
 - [2026-09-09T15:57:17+05:30] chore: clean up legacy styles and unused keyframes
+- [2026-09-09T14:18:58+05:30] docs: document design system spacing tokens
