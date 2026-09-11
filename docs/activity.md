@@ -186,3 +186,4 @@
 - [2026-09-09T12:19:00+05:30] feat: add svg icon bundle for brand assets
 - [2026-09-09T17:55:39+05:30] style: polish typography scale and line heights
 - [2026-09-11T10:00:52+05:30] feat: enhance responsive layout for tablet viewports
+- [2026-09-11T12:55:10+05:30] docs: refine project architectural overview
