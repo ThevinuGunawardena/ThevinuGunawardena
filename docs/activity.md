@@ -763,3 +763,4 @@
 - [2026-09-09T12:12:07+05:30] perf: optimize critical rendering path by preloading key fonts
 - [2026-09-11T11:11:32+05:30] fix: resolve touch event latency on mobile touchscreens
 - [2026-09-11T16:16:49+05:30] docs: document design tokens for color palette and spacing scale
+- [2026-09-12T10:01:48+05:30] fix: correct z-index hierarchy between modal overlay and navbar
