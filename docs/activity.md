@@ -765,3 +765,4 @@
 - [2026-09-11T16:16:49+05:30] docs: document design tokens for color palette and spacing scale
 - [2026-09-12T10:01:48+05:30] fix: correct z-index hierarchy between modal overlay and navbar
 - [2026-09-12T13:04:44+05:30] chore: bump devDependencies and audit npm package security
+- [2026-09-12T19:54:09+05:30] fix: prevent memory leak in window scroll event listener
