@@ -767,3 +767,4 @@
 - [2026-09-12T13:04:44+05:30] chore: bump devDependencies and audit npm package security
 - [2026-09-12T19:54:09+05:30] fix: prevent memory leak in window scroll event listener
 - [2026-09-16T13:14:08+05:30] refactor: consolidate responsive media query rules
+- [2026-09-17T09:22:54+05:30] perf: reduce bundle size by pruning unused SVG path assets
