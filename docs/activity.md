@@ -772,3 +772,4 @@
 - [2026-09-17T18:52:34+05:30] fix: ensure smooth font antialiasing on high-DPI retina displays
 - [2026-09-17T22:37:36+05:30] test: add automated assertions for responsive grid layout breakpoints
 - [2026-09-18T10:38:53+05:30] feat: add filter by tag pills for portfolio projects grid
+- [2026-09-18T16:14:17+05:30] feat: add interactive project card hover tilt physics effect
