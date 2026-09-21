@@ -774,3 +774,4 @@
 - [2026-09-18T10:38:53+05:30] feat: add filter by tag pills for portfolio projects grid
 - [2026-09-18T16:14:17+05:30] feat: add interactive project card hover tilt physics effect
 - [2026-09-19T13:21:44+05:30] fix: ensure proper ARIA attributes on tablist and tabpanel elements
+- [2026-09-21T09:44:03+05:30] refactor: consolidate responsive media query rules
