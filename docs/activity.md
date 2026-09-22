@@ -775,3 +775,4 @@
 - [2026-09-18T16:14:17+05:30] feat: add interactive project card hover tilt physics effect
 - [2026-09-19T13:21:44+05:30] fix: ensure proper ARIA attributes on tablist and tabpanel elements
 - [2026-09-21T09:44:03+05:30] refactor: consolidate responsive media query rules
+- [2026-09-22T10:58:25+05:30] fix: ensure smooth font antialiasing on high-DPI retina displays
