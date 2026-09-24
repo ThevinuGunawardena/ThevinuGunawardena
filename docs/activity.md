@@ -778,3 +778,4 @@
 - [2026-09-22T10:58:25+05:30] fix: ensure smooth font antialiasing on high-DPI retina displays
 - [2026-09-22T22:06:53+05:30] docs: update project architecture diagram and tech stack in README
 - [2026-09-23T19:17:33+05:30] feat: implement reactive state subscriptions for profile header
+- [2026-09-24T09:26:34+05:30] fix: repair broken anchor links in navigation menu list
