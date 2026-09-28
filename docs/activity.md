@@ -782,3 +782,4 @@
 - [2026-09-24T11:20:19+05:30] perf: defer loading of non-critical analytics tracking scripts
 - [2026-09-24T15:24:30+05:30] feat: add accessible screen reader announcements for live updates
 - [2026-09-24T22:20:37+05:30] refactor: streamline animation keyframes for cleaner CSS syntax
+- [2026-09-28T15:11:43+05:30] docs: document design tokens for color palette and spacing scale
