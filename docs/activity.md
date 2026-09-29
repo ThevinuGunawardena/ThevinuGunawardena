@@ -784,3 +784,4 @@
 - [2026-09-24T22:20:37+05:30] refactor: streamline animation keyframes for cleaner CSS syntax
 - [2026-09-28T15:11:43+05:30] docs: document design tokens for color palette and spacing scale
 - [2026-09-29T15:28:15+05:30] perf: defer loading of non-critical analytics tracking scripts
+- [2026-09-29T20:39:22+05:30] docs: update project architecture diagram and tech stack in README
