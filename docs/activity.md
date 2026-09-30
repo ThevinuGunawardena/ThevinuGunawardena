@@ -785,3 +785,4 @@
 - [2026-09-28T15:11:43+05:30] docs: document design tokens for color palette and spacing scale
 - [2026-09-29T15:28:15+05:30] perf: defer loading of non-critical analytics tracking scripts
 - [2026-09-29T20:39:22+05:30] docs: update project architecture diagram and tech stack in README
+- [2026-09-30T13:35:57+05:30] refactor: organize project directory structure and asset folders
