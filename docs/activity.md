@@ -786,3 +786,4 @@
 - [2026-09-29T15:28:15+05:30] perf: defer loading of non-critical analytics tracking scripts
 - [2026-09-29T20:39:22+05:30] docs: update project architecture diagram and tech stack in README
 - [2026-09-30T13:35:57+05:30] refactor: organize project directory structure and asset folders
+- [2026-09-30T19:38:10+05:30] fix: resolve iOS Safari 100vh dynamic toolbar height calculation
