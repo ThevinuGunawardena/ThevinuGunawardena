@@ -789,3 +789,4 @@
 - [2026-09-30T19:38:10+05:30] fix: resolve iOS Safari 100vh dynamic toolbar height calculation
 - [2026-09-30T21:07:02+05:30] fix: prevent event bubbling on project card click handlers
 - [2026-10-01T13:48:30+05:30] refactor: clean up deprecated utility classes and unused keyframes
+- [2026-10-01T22:43:15+05:30] perf: defer loading of non-critical analytics tracking scripts
