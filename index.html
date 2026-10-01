@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Thevinu Gunawardena — GitHub Welcome Screen</title>
+  <meta name="description" content="GitHub Welcome Screen & Profile Portfolio for Thevinu Gunawardena — UI/UX Designer, Full-Stack Developer, and DevOps Enthusiast.">
+  
+  <!-- Favicon -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🔥</text></svg>">
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Top Navigation Bar -->
+  <header class="navbar" id="top-nav">
+    <div class="nav-container">
+      <div class="brand-group">
+        <div class="brand-monogram">TG</div>
+        <div class="brand-title">
+          <span class="name">Thevinu Gunawardena</span>
+          <span class="badge-role">GitHub Welcome Screen</span>
+        </div>
+      </div>
+      
+      <div class="nav-controls">
+        <div class="view-switcher" role="tablist">
+          <button class="switcher-btn active" id="tab-profile" data-target="profile-view">
+            <i class="fab fa-github"></i> Profile Preview
+          </button>
+          <button class="switcher-btn" id="tab-interactive" data-target="interactive-view">
+            <i class="fas fa-layer-group"></i> Interactive Hub
+          </button>
+        </div>
+        
+        <button class="btn-action" id="btn-copy-readme" title="Copy README.md to clipboard">
+          <i class="fas fa-copy"></i>
+          <span>Copy README</span>
+        </button>
+        
+        <a href="https://thevinuvinan.com" target="_blank" rel="noopener noreferrer" class="btn-website">
+          <i class="fas fa-external-link-alt"></i>
+          <span>Live Site</span>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Notification Toast -->
+  <div id="toast" class="toast hidden">
+    <i class="fas fa-check-circle"></i>
+    <span id="toast-message">README copied to clipboard!</span>
+  </div>
+
+  <main class="main-content">
+    
+    <!-- VIEW 1: GitHub Profile README Simulator -->
+    <section id="profile-view" class="view-panel active">
+      <div class="github-chrome-frame">
+        <!-- GitHub Header Simulation -->
+        <div class="github-topbar">
+          <div class="gh-repo-info">
+            <i class="fas fa-book-bookmark gh-icon"></i>
+            <span class="gh-user">ThevinuGunawardena</span>
+            <span class="gh-slash">/</span>
+            <span class="gh-repo-name">ThevinuGunawardena</span>
+            <span class="gh-badge">Public</span>
+          </div>
+          <div class="gh-repo-actions">
+            <div class="gh-action-pill"><i class="far fa-star"></i> Star</div>
+            <div class="gh-action-pill"><i class="fas fa-code-fork"></i> Fork</div>
+          </div>
+        </div>
+
+        <div class="github-readme-box">
+          <div class="readme-header-bar">
+            <div class="readme-file-label">
+              <i class="fas fa-book-open"></i>
+              <span>README.md</span>
+            </div>
+            <div class="readme-actions">
+              <span class="readme-hint">Special GitHub Profile Welcome Repository</span>
+            </div>
+          </div>
+
+          <!-- Profile README Rendered Content -->
+          <article class="markdown-body">
+            
+            <!-- Dynamic SVG Banner -->
+            <div class="readme-center banner-container">
+              <img src="assets/header.svg" alt="Thevinu Gunawardena Banner" class="hero-banner-img" id="banner-preview">
+            </div>
+
+            <!-- Social Action Badges -->
+            <div class="readme-center badges-row">
+              <a href="https://thevinuvinan.com" target="_blank" class="gh-badge-link">
+                <span class="badge-pill bg-coral"><i class="fas fa-globe"></i> Portfolio: thevinuvinan.com</span>
+              </a>
+              <a href="https://www.linkedin.com/in/thevinu/" target="_blank" class="gh-badge-link">
+                <span class="badge-pill bg-linkedin"><i class="fab fa-linkedin"></i> LinkedIn: thevinu</span>
+              </a>
+              <a href="https://www.behance.net/thevinug" target="_blank" class="gh-badge-link">
+                <span class="badge-pill bg-behance"><i class="fab fa-behance"></i> Behance: thevinug</span>
+              </a>
+              <a href="https://drive.google.com/file/d/1sR-lIPvh8HXGrOti4mlEYPbFJ8HJ4g3z/view?usp=sharing" target="_blank" class="gh-badge-link">
+                <span class="badge-pill bg-coral"><i class="fas fa-file-pdf"></i> Download CV</span>
+              </a>
+              <a href="https://github.com/ThevinuGunawardena" class="gh-badge-link">
+                <span class="badge-pill bg-dark"><i class="fas fa-eye"></i> Views: 2,450+</span>
+              </a>
+            </div>
+
+            <div class="readme-divider-box">
+              <img src="assets/divider.svg" alt="Divider" class="divider-img">
+            </div>
+
+            <!-- About Section -->
+            <div class="readme-section">
+              <h2 class="section-title">🌟 About Me</h2>
+              <blockquote class="brand-quote">
+                "Endlessly Creating from Within"
+              </blockquote>
+              <p class="bio-para">
+                I am <strong>Thevinu Gunawardena</strong>, a versatile <strong>UI/UX Designer</strong>, <strong>Full-Stack Developer</strong>, and <strong>DevOps Enthusiast</strong> from Sri Lanka 🇱🇰. I bridge the intersection between clean, human-centered visual design and scalable, high-performance software engineering.
+              </p>
+              
+              <ul class="feature-bullets">
+                <li><i class="fas fa-palette bullet-icon"></i> <strong>UI/UX & Visual Design:</strong> Crafting intuitive, pixel-perfect user journeys, interactive web prototypes, and engaging brand identities.</li>
+                <li><i class="fas fa-code bullet-icon"></i> <strong>Full-Stack Development:</strong> Architecting responsive, modern web and mobile applications using modern frameworks and robust backends.</li>
+                <li><i class="fas fa-cogs bullet-icon"></i> <strong>DevOps & Cloud:</strong> Automating CI/CD pipelines, containerizing applications with Docker, and orchestrating reliable deployments.</li>
+                <li><i class="fas fa-handshake bullet-icon"></i> <strong>Proven Track Record:</strong> Collaborated with over <strong>16+ commercial brands, startups, and institutions</strong>.</li>
+              </ul>
+            </div>
+
+            <div class="readme-divider-box">
+              <img src="assets/divider.svg" alt="Divider" class="divider-img">
+            </div>
+
+            <!-- Featured Projects Table -->
+            <div class="readme-section">
+              <h2 class="section-title">🚀 Featured Projects</h2>
+              <div class="projects-grid">
+                <!-- Project 1 -->
+                <div class="project-card">
+                  <div class="project-header">
+                    <span class="proj-badge">Full-Stack &amp; Mobile</span>
+                    <h3>📱 UniSync</h3>
+                  </div>
+                  <p class="proj-sub">Campus Sync Web &amp; Mobile Hub</p>
+                  <p class="proj-desc">
+                    The ultimate mobile and web campus hub connecting students and lecturers with real-time academic tools and scheduled notifications.
+                  </p>
+                  <div class="proj-techs">
+                    <span>React</span>
+                    <span>Node.js</span>
+                    <span>Mobile App</span>
+                    <span>Real-Time</span>
+                  </div>
+                  <div class="proj-actions">
+                    <a href="https://unisync.thevinuvinan.com" target="_blank" class="proj-btn">
+                      <i class="fas fa-external-link-alt"></i> Live Demo
+                    </a>
+                  </div>
+                </div>
+
+                <!-- Project 2 -->
+                <div class="project-card">
+                  <div class="project-header">
+                    <span class="proj-badge">E-Commerce &amp; Web</span>
+                    <h3>🛍️ KDU Armcut &amp; Merch</h3>
+                  </div>
+                  <p class="proj-sub">Merchandise Platform</p>
+                  <p class="proj-desc">
+                    A responsive, high-converting digital storefront designed to showcase university apparel and merchandise with modern UI/UX and rapid loading.
+                  </p>
+                  <div class="proj-techs">
+                    <span>Web Design</span>
+                    <span>E-Commerce</span>
+                    <span>Responsive UI</span>
+                  </div>
+                  <div class="proj-actions">
+                    <a href="https://kdumerch.thevinuvinan.com" target="_blank" class="proj-btn">
+                      <i class="fas fa-external-link-alt"></i> Live Demo
+                    </a>
+                  </div>
+                </div>
+
+                <!-- Project 3 -->
+                <div class="project-card">
+                  <div class="project-header">
+                    <span class="proj-badge">Corporate Portal</span>
+                    <h3>🏢 NDS Investments</h3>
+                  </div>
+                  <p class="proj-sub">Investment Platform</p>
+                  <p class="proj-desc">
+                    An informative corporate web portal engineered for NDS Investments (Pvt) Ltd, emphasizing institutional trust, brand sophistication, and modern typography.
+                  </p>
+                  <div class="proj-techs">
+                    <span>Corporate Web</span>
+                    <span>Branding</span>
+                    <span>SEO</span>
+                  </div>
+                  <div class="proj-actions">
+                    <a href="https://ndsinvestments.com/" target="_blank" class="proj-btn">
+                      <i class="fas fa-external-link-alt"></i> Live Website
+                    </a>
+                  </div>
+                </div>
+
+                <!-- Project 4 -->
+                <div class="project-card">
+                  <div class="project-header">
+                    <span class="proj-badge">Brand &amp; Visuals</span>
+                    <h3>🎨 Creative Merch &amp; UI</h3>
+                  </div>
+                  <p class="proj-sub">Behance Portfolio</p>
+                  <p class="proj-desc">
+                    A curated portfolio of brand identity systems, product apparel mockups, 3D modeling, and marketing flyers produced for global and local brands.
+                  </p>
+                  <div class="proj-techs">
+                    <span>Figma</span>
+                    <span>Adobe XD</span>
+                    <span>3D Modeling</span>
+                  </div>
+                  <div class="proj-actions">
+                    <a href="https://www.behance.net/thevinug" target="_blank" class="proj-btn">
+                      <i class="fab fa-behance"></i> View Behance
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="readme-divider-box">
+              <img src="assets/divider.svg" alt="Divider" class="divider-img">
+            </div>
+
+            <!-- Tech Stack Section -->
+            <div class="readme-section">
+              <h2 class="section-title">🛠️ Tech Stack &amp; Tooling</h2>
+              
+              <div class="skills-categories">
+                <div class="skill-group">
+                  <h4><i class="fas fa-pen-nib"></i> UI/UX &amp; Creative Design</h4>
+                  <div class="tags-container">
+                    <span class="tag-chip"><i class="fab fa-figma"></i> Figma</span>
+                    <span class="tag-chip"><i class="fas fa-gem"></i> Adobe XD</span>
+                    <span class="tag-chip"><i class="fas fa-image"></i> Photoshop</span>
+                    <span class="tag-chip"><i class="fas fa-vector-square"></i> Illustrator</span>
+                    <span class="tag-chip"><i class="fas fa-cube"></i> Blender 3D</span>
+                  </div>
+                </div>
+
+                <div class="skill-group">
+                  <h4><i class="fas fa-laptop-code"></i> Frontend Engineering</h4>
+                  <div class="tags-container">
+                    <span class="tag-chip"><i class="fab fa-html5"></i> HTML5</span>
+                    <span class="tag-chip"><i class="fab fa-css3-alt"></i> CSS3</span>
+                    <span class="tag-chip"><i class="fab fa-js"></i> JavaScript (ES6+)</span>
+                    <span class="tag-chip"><i class="fas fa-file-code"></i> TypeScript</span>
+                    <span class="tag-chip"><i class="fab fa-react"></i> React</span>
+                    <span class="tag-chip"><i class="fas fa-bolt"></i> Next.js</span>
+                    <span class="tag-chip"><i class="fas fa-wind"></i> Tailwind CSS</span>
+                  </div>
+                </div>
+
+                <div class="skill-group">
+                  <h4><i class="fas fa-server"></i> Backend, Mobile &amp; DevOps</h4>
+                  <div class="tags-container">
+                    <span class="tag-chip"><i class="fab fa-node-js"></i> Node.js</span>
+                    <span class="tag-chip"><i class="fas fa-terminal"></i> Express</span>
+                    <span class="tag-chip"><i class="fab fa-python"></i> Python</span>
+                    <span class="tag-chip"><i class="fas fa-mobile-alt"></i> Flutter</span>
+                    <span class="tag-chip"><i class="fab fa-docker"></i> Docker</span>
+                    <span class="tag-chip"><i class="fas fa-dharmachakra"></i> Kubernetes</span>
+                    <span class="tag-chip"><i class="fab fa-github"></i> GitHub Actions</span>
+                    <span class="tag-chip"><i class="fab fa-linux"></i> Linux</span>
+                    <span class="tag-chip"><i class="fas fa-network-wired"></i> Nginx</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="readme-divider-box">
+              <img src="assets/divider.svg" alt="Divider" class="divider-img">
+            </div>
+
+            <!-- Brands Marquee Section -->
+            <div class="readme-section">
+              <h2 class="section-title">🤝 Collaborations &amp; Trusted Brands</h2>
+              <p class="section-subtitle">Collaborated with 16+ diverse corporate and consumer organizations:</p>
+              
+              <div class="brands-marquee">
+                <div class="brands-track">
+                  <span class="brand-item">Hello Doctor</span>
+                  <span class="brand-item">Rekha Jewelers</span>
+                  <span class="brand-item">Omega Regenciese</span>
+                  <span class="brand-item">AVID Academy</span>
+                  <span class="brand-item">Choice Natural</span>
+                  <span class="brand-item">Choice International</span>
+                  <span class="brand-item">Light Of Love</span>
+                  <span class="brand-item">Muve</span>
+                  <span class="brand-item">AccSense</span>
+                  <span class="brand-item">MGF Marbles</span>
+                  <span class="brand-item">Maxmark</span>
+                  <span class="brand-item">Glovwera</span>
+                  <span class="brand-item">Events For You</span>
+                  <span class="brand-item">Suvinro</span>
+                  <span class="brand-item">ASW</span>
+                  <span class="brand-item">PSK</span>
+                </div>
+              </div>
+            </div>
+
+            <div class="readme-divider-box">
+              <img src="assets/divider.svg" alt="Divider" class="divider-img">
+            </div>
+
+            <!-- GitHub Stats Cards Mockup -->
+            <div class="readme-section stats-section">
+              <h2 class="section-title">📊 GitHub Activity &amp; Stats</h2>
+              <div class="stats-cards-wrapper">
+                <div class="stat-card">
+                  <div class="stat-title">GitHub Profile Stats</div>
+                  <div class="stat-inner-grid">
+                    <div class="stat-row"><span>Total Stars:</span> <strong>34★</strong></div>
+                    <div class="stat-row"><span>Commits:</span> <strong>680+</strong></div>
+                    <div class="stat-row"><span>Pull Requests:</span> <strong>45+</strong></div>
+                    <div class="stat-row"><span>Contributed Repos:</span> <strong>28</strong></div>
+                  </div>
+                </div>
+                <div class="stat-card">
+                  <div class="stat-title">Top Languages</div>
+                  <div class="stat-inner-grid">
+                    <div class="stat-row"><span>JavaScript / TS:</span> <strong>48%</strong></div>
+                    <div class="stat-row"><span>HTML &amp; CSS:</span> <strong>26%</strong></div>
+                    <div class="stat-row"><span>Python:</span> <strong>14%</strong></div>
+                    <div class="stat-row"><span>Dart / Other:</span> <strong>12%</strong></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="readme-divider-box">
+              <img src="assets/divider.svg" alt="Divider" class="divider-img">
+            </div>
+
+            <!-- Footer / Contact -->
+            <div class="readme-center footer-cta">
+              <h3>📬 Let's Connect &amp; Collaborate!</h3>
+              <p>Feel free to reach out for new projects, inquiries, or tech exchanges.</p>
+              
+              <div class="cta-buttons">
+                <a href="https://thevinuvinan.com" target="_blank" class="cta-btn primary">
+                  <i class="fas fa-globe"></i> Visit Website
+                </a>
+                <a href="https://www.linkedin.com/in/thevinu/" target="_blank" class="cta-btn">
+                  <i class="fab fa-linkedin"></i> LinkedIn
+                </a>
+                <a href="https://www.behance.net/thevinug" target="_blank" class="cta-btn">
+                  <i class="fab fa-behance"></i> Behance
+                </a>
+                <a href="https://drive.google.com/file/d/1sR-lIPvh8HXGrOti4mlEYPbFJ8HJ4g3z/view?usp=sharing" target="_blank" class="cta-btn accent">
+                  <i class="fas fa-download"></i> Download CV
+                </a>
+              </div>
+              <p class="copyright-text">Designed &amp; Crafted by Thevinu Gunawardena &bull; 2026</p>
+            </div>
+
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- VIEW 2: Interactive Showcase & Git Instructions -->
+    <section id="interactive-view" class="view-panel">
+      <div class="guide-container">
+        
+        <div class="guide-card">
+          <div class="guide-header">
+            <div class="guide-badge">Repository Setup Guide</div>
+            <h2>How to Activate This Welcome Screen on Your GitHub Profile</h2>
+          </div>
+          
+          <div class="steps-flow">
+            <div class="step-box">
+              <div class="step-num">1</div>
+              <div class="step-body">
+                <h3>Create the Special Repository</h3>
+                <p>On GitHub, click <strong>New Repository</strong>. Name it exactly with your username:</p>
+                <div class="code-pill"><code>ThevinuGunawardena</code></div>
+                <p class="subtext">GitHub will display a secret banner stating: <em>"You found a secret! ThevinuGunawardena is a special repository that you can use to add a README.md to your GitHub profile."</em></p>
+              </div>
+            </div>
+
+            <div class="step-box">
+              <div class="step-num">2</div>
+              <div class="step-body">
+                <h3>Push This Workspace to GitHub</h3>
+                <p>Run the following commands in this directory (<code>c:\Users\Administrator\Desktop\GITWELCOME</code>):</p>
+                <div class="code-snippet-box">
+                  <pre><code>git init
+git add .
+git commit -m "feat: add GitHub profile welcome screen"
+git branch -M main
+git remote add origin https://github.com/ThevinuGunawardena/ThevinuGunawardena.git
+git push -u origin main</code></pre>
+                  <button class="btn-copy-code" id="btn-copy-commands">Copy Commands</button>
+                </div>
+              </div>
+            </div>
+
+            <div class="step-box">
+              <div class="step-num">3</div>
+              <div class="step-body">
+                <h3>Enjoy Your World-Class Profile Welcome Screen!</h3>
+                <p>Navigate to <code>https://github.com/ThevinuGunawardena</code> and see your animated SVG banner, verified project links, and modern design live on your profile.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Quick Info Summary -->
+        <div class="info-card">
+          <h3><i class="fas fa-check-circle" style="color: #ff6652;"></i> Extracted Information from thevinuvinan.com</h3>
+          <ul class="info-checklist">
+            <li><strong>Full Identity:</strong> Thevinu Gunawardena (Monogram: TG)</li>
+            <li><strong>Professional Focus:</strong> UI/UX Design, Web &amp; Mobile Development, DevOps</li>
+            <li><strong>Official Tagline:</strong> "Endlessly Creating from Within"</li>
+            <li><strong>Flagship Projects:</strong> UniSync (Mobile &amp; Web Hub), KDU Armcut &amp; Merch, NDS Investments</li>
+            <li><strong>Behance Portfolio:</strong> Flyer &amp; Merch designs, Branding collections</li>
+            <li><strong>Client Portfolio:</strong> 16+ Brands (Hello Doctor, Rekha Jewelers, Muve, AccSense, etc.)</li>
+            <li><strong>Direct Links:</strong> Integrated live links to portfolio, LinkedIn, Behance, and CV</li>
+          </ul>
+        </div>
+
+      </div>
+    </section>
+
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
